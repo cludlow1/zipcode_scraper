@@ -1,0 +1,1687 @@
+RegionID,SizeRank,RegionName,RegionType,StateName,State,City,Metro,CountyName,8/31/2020
+97564,13,94109,Zip,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,3176253
+96107,22,90250,Zip,CA,CA,Hawthorne,Los Angeles-Long Beach-Anaheim,Los Angeles County,707897
+97771,40,94565,Zip,CA,CA,Pittsburg,San Francisco-Oakland-Hayward,Contra Costa County,595026
+96027,44,90046,Zip,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,1996276
+97711,88,94501,Zip,CA,CA,Alameda,San Francisco-Oakland-Hayward,Alameda County,1129858
+97565,94,94110,Zip,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,1712376
+96015,99,90034,Zip,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,1546695
+98325,103,95630,Zip,CA,CA,Folsom,Sacramento--Roseville--Arden-Arcade,Sacramento County,599655
+96239,112,90805,Zip,CA,CA,Long Beach,Los Angeles-Long Beach-Anaheim,Los Angeles County,515024
+96193,114,90650,Zip,CA,CA,Norwalk,Los Angeles-Long Beach-Anaheim,Los Angeles County,527939
+96025,115,90044,Zip,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,513003
+96990,117,92683,Zip,CA,CA,Westminster,Los Angeles-Long Beach-Anaheim,Orange County,741225
+96467,128,91709,Zip,CA,CA,Chino Hills,Riverside-San Bernardino-Ontario,San Bernardino County,724663
+97764,135,94558,Zip,CA,CA,Napa,Napa,Napa County,728713
+96007,136,90026,Zip,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,1054473
+96545,139,91910,Zip,CA,CA,Chula Vista,San Diego-Carlsbad,San Diego County,600614
+97431,142,93722,Zip,CA,CA,Fresno,Fresno,Fresno County,278522
+97740,154,94533,Zip,CA,CA,Fairfield,Vallejo-Fairfield,Solano County,421423
+98304,165,95608,Zip,CA,CA,Carmichael,Sacramento--Roseville--Arden-Arcade,Sacramento County,455763
+96987,169,92677,Zip,CA,CA,Laguna Niguel,Los Angeles-Long Beach-Anaheim,Orange County,1003960
+96047,174,90066,Zip,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,1650179
+96817,181,92336,Zip,CA,CA,Fontana,Riverside-San Bernardino-Ontario,San Bernardino County,493331
+98432,189,95823,Zip,CA,CA,Sacramento,Sacramento--Roseville--Arden-Arcade,Sacramento County,315496
+96825,190,92345,Zip,CA,CA,Hesperia,Riverside-San Bernardino-Ontario,San Bernardino County,279199
+98411,198,95747,Zip,CA,CA,Roseville,Sacramento--Roseville--Arden-Arcade,Placer County,521898
+97023,201,92804,Zip,CA,CA,Anaheim,Los Angeles-Long Beach-Anaheim,Orange County,647569
+96667,204,92126,Zip,CA,CA,San Diego,San Diego-Carlsbad,San Diego County,692542
+96882,210,92503,Zip,CA,CA,Riverside,Riverside-San Bernardino-Ontario,Riverside County,433498
+96546,211,91911,Zip,CA,CA,Chula Vista,San Diego-Carlsbad,San Diego County,557803
+96643,221,92101,Zip,CA,CA,San Diego,San Diego-Carlsbad,San Diego County,690842
+96000,222,90019,Zip,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,1248521
+97743,231,94536,Zip,CA,CA,Fremont,San Francisco-Oakland-Hayward,Alameda County,1101765
+96934,237,92592,Zip,CA,CA,Temecula,Riverside-San Bernardino-Ontario,Riverside County,522232
+96125,243,90280,Zip,CA,CA,South Gate,Los Angeles-Long Beach-Anaheim,Los Angeles County,498644
+96083,250,90201,Zip,CA,CA,Bell,Los Angeles-Long Beach-Anaheim,Los Angeles County,502696
+96477,251,91730,Zip,CA,CA,Rancho Cucamonga,Riverside-San Bernardino-Ontario,San Bernardino County,503798
+95985,255,90004,Zip,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,1627275
+96651,257,92109,Zip,CA,CA,San Diego,San Diego-Carlsbad,San Diego County,1236039
+96368,271,91342,Zip,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,592013
+96208,272,90706,Zip,CA,CA,Bellflower,Los Angeles-Long Beach-Anaheim,Los Angeles County,574121
+96816,273,92335,Zip,CA,CA,Fontana,Riverside-San Bernardino-Ontario,San Bernardino County,389232
+97991,274,95123,Zip,CA,CA,San Jose,San Jose-Sunnyvale-Santa Clara,Santa Clara County,984355
+96590,275,92021,Zip,CA,CA,El Cajon,San Diego-Carlsbad,San Diego County,549266
+97118,280,93065,Zip,CA,CA,Simi Valley,Oxnard-Thousand Oaks-Ventura,Ventura County,637724
+96959,291,92627,Zip,CA,CA,Costa Mesa,Los Angeles-Long Beach-Anaheim,Orange County,1003753
+96006,298,90025,Zip,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,1770851
+97940,306,95035,Zip,CA,CA,Milpitas,San Jose-Sunnyvale-Santa Clara,Santa Clara County,1142855
+96468,307,91710,Zip,CA,CA,Chino,Riverside-San Bernardino-Ontario,San Bernardino County,545376
+95992,308,90011,Zip,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,493652
+97751,314,94544,Zip,CA,CA,Hayward,San Francisco-Oakland-Hayward,Alameda County,688123
+96008,333,90027,Zip,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,1812947
+97435,338,93727,Zip,CA,CA,Fresno,Fresno,Fresno County,294694
+97774,339,94568,Zip,CA,CA,Dublin,San Francisco-Oakland-Hayward,Alameda County,1009066
+97952,341,95051,Zip,CA,CA,Santa Clara,San Jose-Sunnyvale-Santa Clara,Santa Clara County,1459813
+96364,342,91335,Zip,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,617384
+98378,343,95687,Zip,CA,CA,Vacaville,Vallejo-Fairfield,Solano County,456760
+96221,347,90731,Zip,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,678619
+97328,358,93550,Zip,CA,CA,Palmdale,Los Angeles-Long Beach-Anaheim,Los Angeles County,309540
+97319,360,93536,Zip,CA,CA,Lancaster,Los Angeles-Long Beach-Anaheim,Los Angeles County,390897
+96962,371,92630,Zip,CA,CA,Lake Forest,Los Angeles-Long Beach-Anaheim,Orange County,803140
+97717,375,94509,Zip,CA,CA,Antioch,San Francisco-Oakland-Hayward,Contra Costa County,372890
+98413,378,95758,Zip,CA,CA,Elk Grove,Sacramento--Roseville--Arden-Arcade,Sacramento County,437550
+97222,379,93306,Zip,CA,CA,Bakersfield,Bakersfield,Kern County,228550
+97223,386,93307,Zip,CA,CA,Bakersfield,Bakersfield,Kern County,197785
+97318,389,93535,Zip,CA,CA,Lancaster,Los Angeles-Long Beach-Anaheim,Los Angeles County,288181
+97576,391,94122,Zip,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,1482646
+97202,395,93274,Zip,CA,CA,Tulare,Visalia-Porterville,Tulare County,235039
+97189,409,93257,Zip,CA,CA,Porterville,Visalia-Porterville,Tulare County,220062
+97167,417,93230,Zip,CA,CA,Hanford,Hanford-Corcoran,Kings County,256216
+97225,434,93309,Zip,CA,CA,Bakersfield,Bakersfield,Kern County,240432
+97748,442,94541,Zip,CA,CA,Hayward,San Francisco-Oakland-Hayward,Alameda County,687651
+97745,443,94538,Zip,CA,CA,Fremont,San Francisco-Oakland-Hayward,Alameda County,990585
+97970,444,95076,Zip,CA,CA,Watsonville,Santa Cruz-Watsonville,Santa Cruz County,634526
+96236,448,90802,Zip,CA,CA,Long Beach,Los Angeles-Long Beach-Anaheim,Los Angeles County,563233
+97721,454,94513,Zip,CA,CA,Brentwood,San Francisco-Oakland-Hayward,Contra Costa County,707751
+96186,461,90631,Zip,CA,CA,La Habra,Los Angeles-Long Beach-Anaheim,Orange County,681136
+96646,464,92104,Zip,CA,CA,San Diego,San Diego-Carlsbad,San Diego County,780551
+96965,469,92647,Zip,CA,CA,Huntington Beach,Los Angeles-Long Beach-Anaheim,Orange County,822014
+96690,479,92154,Zip,CA,CA,San Diego,San Diego-Carlsbad,San Diego County,545111
+96952,486,92618,Zip,CA,CA,Irvine,Los Angeles-Long Beach-Anaheim,Orange County,1326450
+96657,489,92115,Zip,CA,CA,San Diego,San Diego-Carlsbad,San Diego County,638290
+98135,494,95355,Zip,CA,CA,Modesto,Modesto,Stanislaus County,368811
+97792,503,94587,Zip,CA,CA,Union City,San Francisco-Oakland-Hayward,Alameda County,930037
+98361,509,95670,Zip,CA,CA,Rancho Cordova,Sacramento--Roseville--Arden-Arcade,Sacramento County,381518
+96964,513,92646,Zip,CA,CA,Huntington Beach,Los Angeles-Long Beach-Anaheim,Orange County,966370
+96954,521,92620,Zip,CA,CA,Irvine,Los Angeles-Long Beach-Anaheim,Orange County,1111867
+97926,537,95014,Zip,CA,CA,Cupertino,San Jose-Sunnyvale-Santa Clara,Santa Clara County,2312381
+96846,542,92376,Zip,CA,CA,Rialto,Riverside-San Bernardino-Ontario,San Bernardino County,383450
+97980,544,95112,Zip,CA,CA,San Jose,San Jose-Sunnyvale-Santa Clara,Santa Clara County,905832
+97545,555,94080,Zip,CA,CA,South San Francisco,San Francisco-Oakland-Hayward,San Mateo County,1142437
+96966,556,92648,Zip,CA,CA,Huntington Beach,Los Angeles-Long Beach-Anaheim,Orange County,1226435
+96671,557,92130,Zip,CA,CA,San Diego,San Diego-Carlsbad,San Diego County,1353416
+96647,560,92105,Zip,CA,CA,San Diego,San Diego-Carlsbad,San Diego County,520069
+96664,566,92122,Zip,CA,CA,San Diego,San Diego-Carlsbad,San Diego County,945873
+98341,576,95648,Zip,CA,CA,Lincoln,Sacramento--Roseville--Arden-Arcade,Placer County,501739
+96918,584,92563,Zip,CA,CA,Murrieta,Riverside-San Bernardino-Ontario,Riverside County,472090
+96017,591,90036,Zip,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,1996049
+97567,592,94112,Zip,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,1186726
+97549,600,94087,Zip,CA,CA,Sunnyvale,San Jose-Sunnyvale-Santa Clara,Santa Clara County,2032695
+97993,606,95125,Zip,CA,CA,San Jose,San Jose-Sunnyvale-Santa Clara,Santa Clara County,1390355
+96192,608,90640,Zip,CA,CA,Montebello,Los Angeles-Long Beach-Anaheim,Los Angeles County,613802
+96917,624,92562,Zip,CA,CA,Murrieta,Riverside-San Bernardino-Ontario,Riverside County,479151
+96659,644,92117,Zip,CA,CA,San Diego,San Diego-Carlsbad,San Diego County,753362
+97548,649,94086,Zip,CA,CA,Sunnyvale,San Jose-Sunnyvale-Santa Clara,Santa Clara County,1726255
+97852,655,94806,Zip,CA,CA,San Pablo,San Francisco-Oakland-Hayward,Contra Costa County,530202
+96669,661,92128,Zip,CA,CA,San Diego,San Diego-Carlsbad,San Diego County,787863
+97796,665,94591,Zip,CA,CA,Vallejo,Vallejo-Fairfield,Solano County,507402
+96531,665,91801,Zip,CA,CA,Alhambra,Los Angeles-Long Beach-Anaheim,Los Angeles County,782669
+96361,671,91331,Zip,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,553057
+97024,684,92805,Zip,CA,CA,Anaheim,Los Angeles-Long Beach-Anaheim,Orange County,610879
+96023,687,90042,Zip,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,827046
+96589,693,92020,Zip,CA,CA,El Cajon,San Diego-Carlsbad,San Diego County,629080
+97760,694,94553,Zip,CA,CA,Martinez,San Francisco-Oakland-Hayward,Contra Costa County,642540
+96728,695,92201,Zip,CA,CA,Indio,Riverside-San Bernardino-Ontario,Riverside County,315951
+97506,699,94015,Zip,CA,CA,Daly City,San Francisco-Oakland-Hayward,San Mateo County,1149183
+96861,702,92399,Zip,CA,CA,Yucaipa,Riverside-San Bernardino-Ontario,San Bernardino County,402535
+97075,703,92882,Zip,CA,CA,Corona,Riverside-San Bernardino-Ontario,Riverside County,545847
+97920,742,95008,Zip,CA,CA,Campbell,San Jose-Sunnyvale-Santa Clara,Santa Clara County,1387685
+97224,742,93308,Zip,CA,CA,Oildale,Bakersfield,Kern County,232113
+96974,750,92656,Zip,CA,CA,Aliso Viejo,Los Angeles-Long Beach-Anaheim,Orange County,818105
+96612,751,92056,Zip,CA,CA,Oceanside,San Diego-Carlsbad,San Diego County,590934
+97004,759,92704,Zip,CA,CA,Santa Ana,Los Angeles-Long Beach-Anaheim,Orange County,633367
+96625,764,92071,Zip,CA,CA,Santee,San Diego-Carlsbad,San Diego County,586479
+96958,767,92626,Zip,CA,CA,Costa Mesa,Los Angeles-Long Beach-Anaheim,Orange County,882510
+98130,777,95350,Zip,CA,CA,Modesto,Modesto,Stanislaus County,324015
+98319,779,95624,Zip,CA,CA,Elk Grove,Sacramento--Roseville--Arden-Arcade,Sacramento County,474747
+96888,789,92509,Zip,CA,CA,Riverside,Riverside-San Bernardino-Ontario,Riverside County,432793
+96593,794,92024,Zip,CA,CA,Encinitas,San Diego-Carlsbad,San Diego County,1269947
+96911,795,92553,Zip,CA,CA,Moreno Valley,Riverside-San Bernardino-Ontario,Riverside County,343325
+97073,812,92880,Zip,CA,CA,Eastvale,Riverside-San Bernardino-Ontario,Riverside County,613170
+96758,814,92253,Zip,CA,CA,La Quinta,Riverside-San Bernardino-Ontario,Riverside County,498530
+95987,815,90006,Zip,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,884541
+96735,832,92223,Zip,CA,CA,Beaumont,Riverside-San Bernardino-Ontario,Riverside County,365128
+97931,843,95020,Zip,CA,CA,Gilroy,San Jose-Sunnyvale-Santa Clara,Santa Clara County,797504
+96110,859,90255,Zip,CA,CA,Huntington Park,Los Angeles-Long Beach-Anaheim,Los Angeles County,502675
+96009,861,90028,Zip,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,1291488
+97569,864,94115,Zip,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,3910634
+96743,865,92234,Zip,CA,CA,Cathedral City,Riverside-San Bernardino-Ontario,Riverside County,360385
+97083,866,93003,Zip,CA,CA,Ventura,Oxnard-Thousand Oaks-Ventura,Ventura County,657557
+96520,869,91786,Zip,CA,CA,Upland,Riverside-San Bernardino-Ontario,San Bernardino County,529133
+97227,893,93312,Zip,CA,CA,Bakersfield,Bakersfield,Kern County,322213
+96005,909,90024,Zip,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,2998762
+96613,914,92057,Zip,CA,CA,Oceanside,San Diego-Carlsbad,San Diego County,569340
+97008,964,92708,Zip,CA,CA,Fountain Valley,Los Angeles-Long Beach-Anaheim,Orange County,887555
+97116,967,93063,Zip,CA,CA,Simi Valley,Oxnard-Thousand Oaks-Ventura,Ventura County,621506
+96645,970,92103,Zip,CA,CA,San Diego,San Diego-Carlsbad,San Diego County,982117
+97205,980,93277,Zip,CA,CA,Visalia,Visalia-Porterville,Tulare County,252247
+97429,1005,93720,Zip,CA,CA,Fresno,Fresno,Fresno County,377385
+96411,1006,91402,Zip,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,570820
+97571,1015,94117,Zip,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2896746
+96572,1026,91977,Zip,CA,CA,Spring Valley,San Diego-Carlsbad,San Diego County,537733
+96886,1029,92507,Zip,CA,CA,Riverside,Riverside-San Bernardino-Ontario,Riverside County,422068
+96602,1037,92037,Zip,CA,CA,San Diego,San Diego-Carlsbad,San Diego County,2104793
+96389,1038,91367,Zip,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,916383
+97557,1041,94102,Zip,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,1398873
+96826,1043,92346,Zip,CA,CA,Highland,Riverside-San Bernardino-Ontario,San Bernardino County,378486
+98041,1046,95207,Zip,CA,CA,Stockton,Stockton-Lodi,San Joaquin County,322001
+98440,1051,95831,Zip,CA,CA,Sacramento,Sacramento--Roseville--Arden-Arcade,Sacramento County,511480
+98543,1053,96003,Zip,CA,CA,Redding,Redding,Shasta County,307430
+97265,1057,93436,Zip,CA,CA,Lompoc,Santa Maria-Santa Barbara,Santa Barbara County,383219
+97575,1062,94121,Zip,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,1760650
+98437,1072,95828,Zip,CA,CA,Florin,Sacramento--Roseville--Arden-Arcade,Sacramento County,336454
+98312,1073,95616,Zip,CA,CA,Davis,Sacramento--Roseville--Arden-Arcade,Yolo County,751029
+96415,1074,91406,Zip,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,661390
+97215,1075,93291,Zip,CA,CA,Visalia,Visalia-Porterville,Tulare County,291468
+96030,1080,90049,Zip,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,3460244
+96506,1084,91766,Zip,CA,CA,Pomona,Los Angeles-Long Beach-Anaheim,Los Angeles County,472310
+96465,1087,91706,Zip,CA,CA,Baldwin Park,Los Angeles-Long Beach-Anaheim,Los Angeles County,514475
+96765,1090,92260,Zip,CA,CA,Palm Desert,Riverside-San Bernardino-Ontario,Riverside County,497845
+96001,1092,90020,Zip,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,4113752
+96488,1099,91744,Zip,CA,CA,La Puente,Los Angeles-Long Beach-Anaheim,Los Angeles County,518558
+97020,1115,92801,Zip,CA,CA,Anaheim,Los Angeles-Long Beach-Anaheim,Orange County,616160
+96123,1125,90277,Zip,CA,CA,Redondo Beach,Los Angeles-Long Beach-Anaheim,Los Angeles County,1443003
+97016,1129,92780,Zip,CA,CA,Tustin,Los Angeles-Long Beach-Anaheim,Orange County,783099
+97813,1130,94611,Zip,CA,CA,Oakland,San Francisco-Oakland-Hayward,Alameda County,1451094
+96868,1131,92407,Zip,CA,CA,San Bernardino,Riverside-San Bernardino-Ontario,San Bernardino County,366883
+96865,1132,92404,Zip,CA,CA,San Bernardino,Riverside-San Bernardino-Ontario,San Bernardino County,320507
+96502,1148,91762,Zip,CA,CA,Ontario,Riverside-San Bernardino-Ontario,San Bernardino County,481909
+98323,1159,95628,Zip,CA,CA,Fair Oaks,Sacramento--Roseville--Arden-Arcade,Sacramento County,493444
+97958,1160,95060,Zip,CA,CA,Santa Cruz,Santa Cruz-Watsonville,Santa Cruz County,1024265
+97757,1165,94550,Zip,CA,CA,Livermore,San Francisco-Oakland-Hayward,Alameda County,892068
+96414,1183,91405,Zip,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,685588
+96629,1193,92078,Zip,CA,CA,San Marcos,San Diego-Carlsbad,San Diego County,739332
+98306,1194,95610,Zip,CA,CA,Citrus Heights,Sacramento--Roseville--Arden-Arcade,Sacramento County,395935
+96807,1195,92324,Zip,CA,CA,Colton,Riverside-San Bernardino-Ontario,San Bernardino County,339395
+96245,1196,90813,Zip,CA,CA,Long Beach,Los Angeles-Long Beach-Anaheim,Los Angeles County,525497
+96501,1207,91761,Zip,CA,CA,Ontario,Riverside-San Bernardino-Ontario,San Bernardino County,494087
+96237,1210,90803,Zip,CA,CA,Long Beach,Los Angeles-Long Beach-Anaheim,Los Angeles County,1203801
+96161,1212,90503,Zip,CA,CA,Torrance,Los Angeles-Long Beach-Anaheim,Los Angeles County,963725
+97783,1220,94577,Zip,CA,CA,San Leandro,San Francisco-Oakland-Hayward,Alameda County,716751
+96595,1228,92026,Zip,CA,CA,Escondido,San Diego-Carlsbad,San Diego County,571320
+96446,1230,91601,Zip,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,872190
+98040,1249,95206,Zip,CA,CA,Stockton,Stockton-Lodi,San Joaquin County,315056
+97572,1254,94118,Zip,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2563014
+97753,1256,94546,Zip,CA,CA,Castro Valley,San Francisco-Oakland-Hayward,Alameda County,843040
+96464,1257,91702,Zip,CA,CA,Azusa,Los Angeles-Long Beach-Anaheim,Los Angeles County,529115
+98369,1269,95678,Zip,CA,CA,Roseville,Sacramento--Roseville--Arden-Arcade,Placer County,431175
+96996,1270,92692,Zip,CA,CA,Mission Viejo,Los Angeles-Long Beach-Anaheim,Orange County,822118
+97703,1282,94403,Zip,CA,CA,San Mateo,San Francisco-Oakland-Hayward,San Mateo County,1632006
+98317,1288,95621,Zip,CA,CA,Citrus Heights,Sacramento--Roseville--Arden-Arcade,Sacramento County,358863
+96656,1300,92114,Zip,CA,CA,San Diego,San Diego-Carlsbad,San Diego County,511082
+95986,1315,90005,Zip,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,1719298
+96028,1317,90047,Zip,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,570851
+96510,1322,91770,Zip,CA,CA,Rosemead,Los Angeles-Long Beach-Anaheim,Los Angeles County,657579
+96369,1326,91343,Zip,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,678931
+96104,1327,90247,Zip,CA,CA,Gardena,Los Angeles-Long Beach-Anaheim,Los Angeles County,585161
+95984,1329,90003,Zip,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,457516
+97471,1330,93906,Zip,CA,CA,Salinas,Salinas,Monterey County,497518
+96185,1337,90630,Zip,CA,CA,Cypress,Los Angeles-Long Beach-Anaheim,Orange County,761703
+97274,1356,93446,Zip,CA,CA,Paso Robles,San Luis Obispo-Paso Robles-Arroyo Grande,San Luis Obispo County,539367
+95997,1358,90016,Zip,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,887002
+96560,1362,91942,Zip,CA,CA,La Mesa,San Diego-Carlsbad,San Diego County,615109
+95999,1378,90018,Zip,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,785567
+96024,1380,90043,Zip,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,759349
+96597,1385,92028,Zip,CA,CA,Fallbrook,San Diego-Carlsbad,San Diego County,611675
+96670,1388,92129,Zip,CA,CA,San Diego,San Diego-Carlsbad,San Diego County,870105
+98431,1394,95822,Zip,CA,CA,Sacramento,Sacramento--Roseville--Arden-Arcade,Sacramento County,338336
+96018,1396,90037,Zip,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,554184
+97558,1401,94103,Zip,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,1719890
+96339,1402,91304,Zip,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,724078
+97795,1404,94590,Zip,CA,CA,Vallejo,Vallejo-Fairfield,Solano County,405760
+97568,1408,94114,Zip,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2565711
+97329,1413,93551,Zip,CA,CA,Palmdale,Los Angeles-Long Beach-Anaheim,Los Angeles County,427316
+96732,1425,92211,Zip,CA,CA,Palm Desert,Riverside-San Bernardino-Ontario,Riverside County,413087
+97068,1432,92870,Zip,CA,CA,Placentia,Los Angeles-Long Beach-Anaheim,Orange County,764416
+96003,1437,90022,Zip,CA,CA,East Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,508742
+97992,1442,95124,Zip,CA,CA,San Jose,San Jose-Sunnyvale-Santa Clara,Santa Clara County,1328513
+96026,1450,90045,Zip,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,1283659
+97562,1463,94107,Zip,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,1767965
+97746,1463,94539,Zip,CA,CA,Fremont,San Francisco-Oakland-Hayward,Alameda County,1708983
+98118,1474,95336,Zip,CA,CA,Manteca,Stockton-Lodi,San Joaquin County,405734
+96653,1480,92111,Zip,CA,CA,San Diego,San Diego-Carlsbad,San Diego County,716329
+96898,1480,92530,Zip,CA,CA,Lake Elsinore,Riverside-San Bernardino-Ontario,Riverside County,378923
+97501,1483,94010,Zip,CA,CA,Burlingame,San Francisco-Oakland-Hayward,San Mateo County,2987791
+96567,1489,91950,Zip,CA,CA,National City,San Diego-Carlsbad,San Diego County,482426
+97104,1498,93033,Zip,CA,CA,Oxnard,Oxnard-Thousand Oaks-Ventura,Ventura County,486017
+96596,1503,92027,Zip,CA,CA,Escondido,San Diego-Carlsbad,San Diego County,532360
+96855,1506,92392,Zip,CA,CA,Victorville,Riverside-San Bernardino-Ontario,San Bernardino County,288616
+97772,1509,94566,Zip,CA,CA,Pleasanton,San Francisco-Oakland-Hayward,Alameda County,1247844
+96370,1513,91344,Zip,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,725343
+98415,1514,95762,Zip,CA,CA,El Dorado Hills,Sacramento--Roseville--Arden-Arcade,El Dorado County,693939
+96124,1516,90278,Zip,CA,CA,Redondo Beach,Los Angeles-Long Beach-Anaheim,Los Angeles County,1110568
+96995,1524,92691,Zip,CA,CA,Mission Viejo,Los Angeles-Long Beach-Anaheim,Orange County,796292
+97226,1529,93311,Zip,CA,CA,Bakersfield,Bakersfield,Kern County,324300
+97872,1540,94928,Zip,CA,CA,Rohnert Park,Santa Rosa,Sonoma County,589664
+97078,1541,92886,Zip,CA,CA,Yorba Linda,Los Angeles-Long Beach-Anaheim,Orange County,907354
+96658,1546,92116,Zip,CA,CA,San Diego,San Diego-Carlsbad,San Diego County,762461
+97807,1547,94605,Zip,CA,CA,Oakland,San Francisco-Oakland-Hayward,Alameda County,722875
+96905,1553,92545,Zip,CA,CA,Hemet,Riverside-San Bernardino-Ontario,Riverside County,305774
+96883,1554,92504,Zip,CA,CA,Riverside,Riverside-San Bernardino-Ontario,Riverside County,413754
+97089,1556,93010,Zip,CA,CA,Camarillo,Oxnard-Thousand Oaks-Ventura,Ventura County,670059
+97942,1562,95037,Zip,CA,CA,Morgan Hill,San Jose-Sunnyvale-Santa Clara,Santa Clara County,1022220
+96206,1565,90703,Zip,CA,CA,Cerritos,Los Angeles-Long Beach-Anaheim,Los Angeles County,771314
+96038,1573,90057,Zip,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,907073
+97540,1596,94066,Zip,CA,CA,San Bruno,San Francisco-Oakland-Hayward,San Mateo County,1208997
+96582,1607,92009,Zip,CA,CA,Carlsbad,San Diego-Carlsbad,San Diego County,1074590
+98153,1609,95376,Zip,CA,CA,Tracy,Stockton-Lodi,San Joaquin County,463225
+96982,1615,92672,Zip,CA,CA,San Clemente,Los Angeles-Long Beach-Anaheim,Orange County,1143452
+96489,1619,91745,Zip,CA,CA,Hacienda Heights,Los Angeles-Long Beach-Anaheim,Los Angeles County,712578
+97803,1624,94601,Zip,CA,CA,Oakland,San Francisco-Oakland-Hayward,Alameda County,632104
+96610,1626,92054,Zip,CA,CA,Oceanside,San Diego-Carlsbad,San Diego County,766251
+97812,1636,94610,Zip,CA,CA,Oakland,San Francisco-Oakland-Hayward,Alameda County,1635006
+97135,1642,93117,Zip,CA,CA,Goleta,Santa Maria-Santa Barbara,Santa Barbara County,909686
+97516,1645,94025,Zip,CA,CA,Menlo Park,San Francisco-Oakland-Hayward,San Mateo County,2495285
+96993,1652,92688,Zip,CA,CA,Rancho Santa Margarita,Los Angeles-Long Beach-Anaheim,Orange County,771514
+96197,1665,90660,Zip,CA,CA,Pico Rivera,Los Angeles-Long Beach-Anaheim,Los Angeles County,531673
+97933,1687,95023,Zip,CA,CA,Hollister,San Jose-Sunnyvale-Santa Clara,San Benito County,656518
+97041,1693,92833,Zip,CA,CA,Fullerton,Los Angeles-Long Beach-Anaheim,Orange County,694818
+96618,1695,92064,Zip,CA,CA,Poway,San Diego-Carlsbad,San Diego County,805337
+98434,1703,95825,Zip,CA,CA,Arden-Arcade,Sacramento--Roseville--Arden-Arcade,Sacramento County,356758
+96668,1703,92127,Zip,CA,CA,San Diego,San Diego-Carlsbad,San Diego County,1081303
+96505,1730,91765,Zip,CA,CA,Diamond Bar,Los Angeles-Long Beach-Anaheim,Los Angeles County,766445
+96904,1737,92544,Zip,CA,CA,Hemet,Riverside-San Bernardino-Ontario,Riverside County,302856
+97422,1744,93711,Zip,CA,CA,Fresno,Fresno,Fresno County,393446
+97729,1748,94521,Zip,CA,CA,Concord,San Francisco-Oakland-Hayward,Contra Costa County,679911
+96978,1769,92660,Zip,CA,CA,Newport Beach,Los Angeles-Long Beach-Anaheim,Orange County,2221196
+96605,1771,92040,Zip,CA,CA,Lakeside,San Diego-Carlsbad,San Diego County,570519
+96122,1782,90275,Zip,CA,CA,Rancho Palos Verdes,Los Angeles-Long Beach-Anaheim,Los Angeles County,1392748
+98067,1785,95240,Zip,CA,CA,Lodi,Stockton-Lodi,San Joaquin County,361438
+96450,1793,91605,Zip,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,670622
+98004,1794,95136,Zip,CA,CA,San Jose,San Jose-Sunnyvale-Santa Clara,Santa Clara County,1022316
+97220,1811,93304,Zip,CA,CA,Bakersfield,Bakersfield,Kern County,191389
+96229,1823,90745,Zip,CA,CA,Carson,Los Angeles-Long Beach-Anaheim,Los Angeles County,580082
+98435,1824,95826,Zip,CA,CA,Rosemont,Sacramento--Roseville--Arden-Arcade,Sacramento County,375538
+96504,1837,91764,Zip,CA,CA,Ontario,Riverside-San Bernardino-Ontario,San Bernardino County,452371
+98170,1838,95403,Zip,CA,CA,Santa Rosa,Santa Rosa,Sonoma County,600208
+97358,1842,93611,Zip,CA,CA,Clovis,Fresno,Fresno County,359259
+98430,1844,95821,Zip,CA,CA,Arden-Arcade,Sacramento--Roseville--Arden-Arcade,Sacramento County,395375
+96927,1852,92584,Zip,CA,CA,Menifee,Riverside-San Bernardino-Ontario,Riverside County,422891
+96238,1857,90804,Zip,CA,CA,Long Beach,Los Angeles-Long Beach-Anaheim,Los Angeles County,616423
+98358,1864,95667,Zip,CA,CA,Placerville,Sacramento--Roseville--Arden-Arcade,El Dorado County,424476
+97995,1866,95127,Zip,CA,CA,San Jose,San Jose-Sunnyvale-Santa Clara,Santa Clara County,823049
+96273,1867,91016,Zip,CA,CA,Monrovia,Los Angeles-Long Beach-Anaheim,Los Angeles County,775489
+98233,1868,95476,Zip,CA,CA,Sonoma,Santa Rosa,Sonoma County,900715
+97979,1869,95111,Zip,CA,CA,San Jose,San Jose-Sunnyvale-Santa Clara,Santa Clara County,828519
+97960,1875,95062,Zip,CA,CA,Santa Cruz,Santa Cruz-Watsonville,Santa Cruz County,971563
+97994,1883,95126,Zip,CA,CA,San Jose,San Jose-Sunnyvale-Santa Clara,Santa Clara County,1159103
+97858,1894,94901,Zip,CA,CA,San Rafael,San Francisco-Oakland-Hayward,Marin County,1217101
+97808,1897,94606,Zip,CA,CA,Oakland,San Francisco-Oakland-Hayward,Alameda County,733995
+96548,1902,91913,Zip,CA,CA,Chula Vista,San Diego-Carlsbad,San Diego County,653202
+96247,1905,90815,Zip,CA,CA,Long Beach,Los Angeles-Long Beach-Anaheim,Los Angeles County,757094
+96885,1906,92506,Zip,CA,CA,Riverside,Riverside-San Bernardino-Ontario,Riverside County,492961
+97283,1916,93455,Zip,CA,CA,Santa Maria,Santa Maria-Santa Barbara,Santa Barbara County,475739
+98480,1938,95926,Zip,CA,CA,Chico,Chico,Butte County,374485
+97527,1949,94040,Zip,CA,CA,Mountain View,San Jose-Sunnyvale-Santa Clara,Santa Clara County,2580983
+97810,1971,94608,Zip,CA,CA,Oakland,San Francisco-Oakland-Hayward,Alameda County,905006
+96594,1985,92025,Zip,CA,CA,Escondido,San Diego-Carlsbad,San Diego County,617001
+97317,1988,93534,Zip,CA,CA,Lancaster,Los Angeles-Long Beach-Anaheim,Los Angeles County,278659
+96858,1999,92395,Zip,CA,CA,Victorville,Riverside-San Bernardino-Ontario,San Bernardino County,263604
+96623,2005,92069,Zip,CA,CA,San Marcos,San Diego-Carlsbad,San Diego County,618241
+96351,2010,91320,Zip,CA,CA,Thousand Oaks,Oxnard-Thousand Oaks-Ventura,Ventura County,759039
+96010,2011,90029,Zip,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,1099967
+97704,2020,94404,Zip,CA,CA,Foster City,San Francisco-Oakland-Hayward,San Mateo County,1739027
+98482,2023,95928,Zip,CA,CA,Chico,Chico,Butte County,388092
+97228,2030,93313,Zip,CA,CA,Bakersfield,Bakersfield,Kern County,273922
+96046,2030,90065,Zip,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,862912
+96451,2032,91606,Zip,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,733162
+96915,2041,92557,Zip,CA,CA,Moreno Valley,Riverside-San Bernardino-Ontario,Riverside County,381071
+96127,2042,90291,Zip,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,2034898
+96424,2059,91423,Zip,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,1366200
+96159,2063,90501,Zip,CA,CA,Torrance,Los Angeles-Long Beach-Anaheim,Los Angeles County,762033
+98171,2065,95404,Zip,CA,CA,Santa Rosa,Santa Rosa,Sonoma County,673276
+96750,2072,92243,Zip,CA,CA,El Centro,El Centro,Imperial County,255289
+97570,2073,94116,Zip,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,1442938
+97850,2076,94804,Zip,CA,CA,Richmond,San Francisco-Oakland-Hayward,Contra Costa County,697890
+97365,2084,93619,Zip,CA,CA,Clovis,Fresno,Fresno County,452221
+97766,2092,94560,Zip,CA,CA,Newark,San Francisco-Oakland-Hayward,Alameda County,928236
+97951,2093,95050,Zip,CA,CA,Santa Clara,San Jose-Sunnyvale-Santa Clara,Santa Clara County,1268089
+96634,2104,92084,Zip,CA,CA,Vista,San Diego-Carlsbad,San Diego County,610342
+96220,2108,90723,Zip,CA,CA,Paramount,Los Angeles-Long Beach-Anaheim,Los Angeles County,510841
+96128,2114,90292,Zip,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,1724645
+96050,2118,90069,Zip,CA,CA,West Hollywood,Los Angeles-Long Beach-Anaheim,Los Angeles County,3050276
+96479,2118,91732,Zip,CA,CA,El Monte,Los Angeles-Long Beach-Anaheim,Los Angeles County,537533
+96113,2122,90262,Zip,CA,CA,Lynwood,Los Angeles-Long Beach-Anaheim,Los Angeles County,487561
+97758,2123,94551,Zip,CA,CA,Livermore,San Francisco-Oakland-Hayward,Alameda County,777247
+96792,2127,92308,Zip,CA,CA,Apple Valley,Riverside-San Bernardino-Ontario,San Bernardino County,262616
+97788,2141,94582,Zip,CA,CA,San Ramon,San Francisco-Oakland-Hayward,Contra Costa County,1412512
+98412,2145,95757,Zip,CA,CA,Elk Grove,Sacramento--Roseville--Arden-Arcade,Sacramento County,522527
+98523,2153,95973,Zip,CA,CA,Chico,Chico,Butte County,423776
+96101,2156,90241,Zip,CA,CA,Downey,Los Angeles-Long Beach-Anaheim,Los Angeles County,661299
+96588,2158,92019,Zip,CA,CA,El Cajon,San Diego-Carlsbad,San Diego County,642330
+96791,2174,92307,Zip,CA,CA,Apple Valley,Riverside-San Bernardino-Ontario,San Bernardino County,292661
+96152,2174,90405,Zip,CA,CA,Santa Monica,Los Angeles-Long Beach-Anaheim,Los Angeles County,2139832
+96225,2179,90740,Zip,CA,CA,Seal Beach,Los Angeles-Long Beach-Anaheim,Orange County,1122079
+97784,2181,94578,Zip,CA,CA,San Leandro,San Francisco-Oakland-Hayward,Alameda County,688933
+97101,2207,93030,Zip,CA,CA,Oxnard,Oxnard-Thousand Oaks-Ventura,Ventura County,562566
+97531,2208,94044,Zip,CA,CA,Pacifica,San Francisco-Oakland-Hayward,San Mateo County,1131125
+96190,2213,90638,Zip,CA,CA,La Mirada,Los Angeles-Long Beach-Anaheim,Los Angeles County,629888
+95989,2214,90008,Zip,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,966887
+96410,2220,91401,Zip,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,900087
+97434,2224,93726,Zip,CA,CA,Fresno,Fresno,Fresno County,235028
+96767,2227,92262,Zip,CA,CA,Palm Springs,Riverside-San Bernardino-Ontario,Riverside County,618910
+97035,2229,92821,Zip,CA,CA,Brea,Los Angeles-Long Beach-Anaheim,Orange County,768967
+97047,2245,92840,Zip,CA,CA,Garden Grove,Los Angeles-Long Beach-Anaheim,Orange County,670873
+97488,2250,93940,Zip,CA,CA,Monterey,Salinas,Monterey County,870420
+97577,2253,94123,Zip,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,4376802
+97731,2256,94523,Zip,CA,CA,Pleasant Hill,San Francisco-Oakland-Hayward,Contra Costa County,816841
+96117,2261,90266,Zip,CA,CA,Manhattan Beach,Los Angeles-Long Beach-Anaheim,Los Angeles County,2704391
+96884,2268,92505,Zip,CA,CA,Riverside,Riverside-San Bernardino-Ontario,Riverside County,435586
+98382,2268,95691,Zip,CA,CA,West Sacramento,Sacramento--Roseville--Arden-Arcade,Yolo County,437493
+96383,2275,91360,Zip,CA,CA,Thousand Oaks,Oxnard-Thousand Oaks-Ventura,Ventura County,746386
+96324,2277,91205,Zip,CA,CA,Glendale,Los Angeles-Long Beach-Anaheim,Los Angeles County,810271
+96507,2282,91767,Zip,CA,CA,Pomona,Los Angeles-Long Beach-Anaheim,Los Angeles County,480203
+97005,2287,92705,Zip,CA,CA,North Tustin,Los Angeles-Long Beach-Anaheim,Orange County,1052484
+96449,2294,91604,Zip,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,1706477
+96967,2300,92649,Zip,CA,CA,Huntington Beach,Los Angeles-Long Beach-Anaheim,Orange County,1054727
+96843,2303,92373,Zip,CA,CA,Redlands,Riverside-San Bernardino-Ontario,San Bernardino County,556792
+97693,2315,94303,Zip,CA,CA,Palo Alto,San Jose-Sunnyvale-Santa Clara,Santa Clara County,2207139
+98538,2317,95991,Zip,CA,CA,Yuba City,Yuba City,Sutter County,301291
+96163,2327,90505,Zip,CA,CA,Torrance,Los Angeles-Long Beach-Anaheim,Los Angeles County,1036394
+98451,2328,95843,Zip,CA,CA,Sacramento,Sacramento--Roseville--Arden-Arcade,Sacramento County,392606
+96242,2337,90808,Zip,CA,CA,Long Beach,Los Angeles-Long Beach-Anaheim,Los Angeles County,732931
+96150,2342,90403,Zip,CA,CA,Santa Monica,Los Angeles-Long Beach-Anaheim,Los Angeles County,2618614
+96614,2349,92058,Zip,CA,CA,Oceanside,San Diego-Carlsbad,San Diego County,548723
+98442,2350,95833,Zip,CA,CA,Sacramento,Sacramento--Roseville--Arden-Arcade,Sacramento County,342740
+96401,2364,91387,Zip,CA,CA,Santa Clarita,Los Angeles-Long Beach-Anaheim,Los Angeles County,648039
+97997,2386,95129,Zip,CA,CA,San Jose,San Jose-Sunnyvale-Santa Clara,Santa Clara County,1899595
+96644,2420,92102,Zip,CA,CA,San Diego,San Diego-Carlsbad,San Diego County,542603
+98092,2439,95307,Zip,CA,CA,Ceres,Modesto,Stanislaus County,332974
+96947,2446,92612,Zip,CA,CA,Irvine,Los Angeles-Long Beach-Anaheim,Orange County,863120
+97359,2449,93612,Zip,CA,CA,Clovis,Fresno,Fresno County,259105
+97789,2465,94583,Zip,CA,CA,San Ramon,San Francisco-Oakland-Hayward,Contra Costa County,1314324
+96228,2473,90744,Zip,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,506242
+97741,2475,94534,Zip,CA,CA,Fairfield,Vallejo-Fairfield,Solano County,556862
+97379,2516,93635,Zip,CA,CA,Los Banos,Merced,Merced County,339573
+97892,2517,94954,Zip,CA,CA,Petaluma,Santa Rosa,Sonoma County,691656
+96903,2548,92543,Zip,CA,CA,Hemet,Riverside-San Bernardino-Ontario,Riverside County,242140
+98444,2556,95835,Zip,CA,CA,Sacramento,Sacramento--Roseville--Arden-Arcade,Sacramento County,450330
+96492,2558,91748,Zip,CA,CA,Rowland Heights,Los Angeles-Long Beach-Anaheim,Los Angeles County,696291
+96341,2564,91306,Zip,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,633472
+96933,2568,92591,Zip,CA,CA,Temecula,Riverside-San Bernardino-Ontario,Riverside County,491482
+98417,2569,95765,Zip,CA,CA,Rocklin,Sacramento--Roseville--Arden-Arcade,Placer County,548837
+96844,2581,92374,Zip,CA,CA,Redlands,Riverside-San Bernardino-Ontario,San Bernardino County,414227
+96016,2589,90035,Zip,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,1911778
+96452,2601,91607,Zip,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,1117917
+96921,2607,92570,Zip,CA,CA,Perris,Riverside-San Bernardino-Ontario,Riverside County,374188
+96747,2635,92240,Zip,CA,CA,Desert Hot Springs,Riverside-San Bernardino-Ontario,Riverside County,244868
+96346,2643,91311,Zip,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,743609
+95988,2647,90007,Zip,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,803713
+97739,2648,94531,Zip,CA,CA,Antioch,San Francisco-Oakland-Hayward,Contra Costa County,601670
+97767,2654,94561,Zip,CA,CA,Oakley,San Francisco-Oakland-Hayward,Contra Costa County,590393
+97996,2661,95128,Zip,CA,CA,San Jose,San Jose-Sunnyvale-Santa Clara,Santa Clara County,1204937
+97072,2663,92879,Zip,CA,CA,Corona,Riverside-San Bernardino-Ontario,Riverside County,491304
+95993,2666,90012,Zip,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,792433
+97003,2673,92703,Zip,CA,CA,Santa Ana,Los Angeles-Long Beach-Anaheim,Orange County,589688
+98386,2675,95695,Zip,CA,CA,Woodland,Sacramento--Roseville--Arden-Arcade,Yolo County,401688
+98002,2681,95134,Zip,CA,CA,San Jose,San Jose-Sunnyvale-Santa Clara,Santa Clara County,1176081
+97535,2682,94061,Zip,CA,CA,Redwood City,San Francisco-Oakland-Hayward,San Mateo County,1663504
+97091,2685,93012,Zip,CA,CA,Camarillo,Oxnard-Thousand Oaks-Ventura,Ventura County,650125
+96385,2688,91362,Zip,CA,CA,Thousand Oaks,Oxnard-Thousand Oaks-Ventura,Ventura County,931486
+98168,2692,95401,Zip,CA,CA,Santa Rosa,Santa Rosa,Sonoma County,553411
+97216,2695,93292,Zip,CA,CA,Visalia,Visalia-Porterville,Tulare County,266038
+98379,2701,95688,Zip,CA,CA,Vacaville,Vallejo-Fairfield,Solano County,538556
+98157,2702,95380,Zip,CA,CA,Turlock,Modesto,Stanislaus County,331100
+96870,2704,92410,Zip,CA,CA,San Bernardino,Riverside-San Bernardino-Ontario,San Bernardino County,287640
+96463,2721,91701,Zip,CA,CA,Rancho Cucamonga,Riverside-San Bernardino-Ontario,San Bernardino County,604018
+97701,2729,94401,Zip,CA,CA,San Mateo,San Francisco-Oakland-Hayward,San Mateo County,1225336
+96029,2752,90048,Zip,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,2245224
+97007,2758,92707,Zip,CA,CA,Santa Ana,Los Angeles-Long Beach-Anaheim,Orange County,601382
+97530,2767,94043,Zip,CA,CA,Mountain View,San Jose-Sunnyvale-Santa Clara,Santa Clara County,1690560
+96649,2773,92107,Zip,CA,CA,San Diego,San Diego-Carlsbad,San Diego County,1128949
+97241,2786,93401,Zip,CA,CA,San Luis Obispo,San Luis Obispo-Paso Robles-Arroyo Grande,San Luis Obispo County,808866
+97585,2791,94131,Zip,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,1809792
+97333,2796,93555,Zip,CA,CA,Ridgecrest,Bakersfield,Kern County,211359
+96922,2797,92571,Zip,CA,CA,Perris,Riverside-San Bernardino-Ontario,Riverside County,347601
+97505,2799,94014,Zip,CA,CA,Daly City,San Francisco-Oakland-Hayward,San Mateo County,1024650
+96180,2810,90620,Zip,CA,CA,Buena Park,Los Angeles-Long Beach-Anaheim,Orange County,649600
+98541,2813,96001,Zip,CA,CA,Redding,Redding,Shasta County,296231
+97286,2821,93458,Zip,CA,CA,Santa Maria,Santa Maria-Santa Barbara,Santa Barbara County,383120
+96437,2823,91505,Zip,CA,CA,Burbank,Los Angeles-Long Beach-Anaheim,Los Angeles County,860904
+97065,2827,92867,Zip,CA,CA,Orange,Los Angeles-Long Beach-Anaheim,Orange County,791721
+96049,2834,90068,Zip,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,1687903
+96295,2836,91107,Zip,CA,CA,Pasadena,Los Angeles-Long Beach-Anaheim,Los Angeles County,1006145
+96494,2853,91750,Zip,CA,CA,La Verne,Los Angeles-Long Beach-Anaheim,Los Angeles County,709017
+96013,2856,90032,Zip,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,672466
+97107,2862,93036,Zip,CA,CA,Oxnard,Oxnard-Thousand Oaks-Ventura,Ventura County,583585
+96769,2871,92264,Zip,CA,CA,Palm Springs,Riverside-San Bernardino-Ontario,Riverside County,869940
+96325,2890,91206,Zip,CA,CA,Glendale,Los Angeles-Long Beach-Anaheim,Los Angeles County,1164842
+97728,2898,94520,Zip,CA,CA,Concord,San Francisco-Oakland-Hayward,Contra Costa County,540156
+96241,2899,90807,Zip,CA,CA,Long Beach,Los Angeles-Long Beach-Anaheim,Los Angeles County,715893
+97025,2919,92806,Zip,CA,CA,Anaheim,Los Angeles-Long Beach-Anaheim,Orange County,693101
+96730,2940,92203,Zip,CA,CA,Indio,Riverside-San Bernardino-Ontario,Riverside County,377676
+97039,2948,92831,Zip,CA,CA,Fullerton,Los Angeles-Long Beach-Anaheim,Orange County,730478
+96014,2956,90033,Zip,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,551165
+97984,2957,95116,Zip,CA,CA,San Jose,San Jose-Sunnyvale-Santa Clara,Santa Clara County,758752
+96044,2959,90063,Zip,CA,CA,East Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,540616
+97470,2964,93905,Zip,CA,CA,Salinas,Salinas,Monterey County,459440
+96655,2966,92113,Zip,CA,CA,San Diego,San Diego-Carlsbad,San Diego County,463137
+96619,2971,92065,Zip,CA,CA,Ramona,San Diego-Carlsbad,San Diego County,575044
+95982,2973,90001,Zip,CA,CA,Florence-Graham,Los Angeles-Long Beach-Anaheim,Los Angeles County,439685
+98043,2974,95209,Zip,CA,CA,Stockton,Stockton-Lodi,San Joaquin County,374158
+96240,2982,90806,Zip,CA,CA,Long Beach,Los Angeles-Long Beach-Anaheim,Los Angeles County,585854
+98119,2987,95337,Zip,CA,CA,Manteca,Stockton-Lodi,San Joaquin County,475591
+97081,2988,93001,Zip,CA,CA,Ventura,Oxnard-Thousand Oaks-Ventura,Ventura County,712757
+97890,2992,94952,Zip,CA,CA,Petaluma,Santa Rosa,Sonoma County,852279
+98353,2994,95662,Zip,CA,CA,Orangevale,Sacramento--Roseville--Arden-Arcade,Sacramento County,432401
+98464,2999,95901,Zip,CA,CA,Marysville,Yuba City,Yuba County,280796
+98352,3004,95661,Zip,CA,CA,Roseville,Sacramento--Roseville--Arden-Arcade,Placer County,527478
+97587,3009,94133,Zip,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,3020949
+98159,3014,95382,Zip,CA,CA,Turlock,Modesto,Stanislaus County,388931
+96523,3015,91790,Zip,CA,CA,West Covina,Los Angeles-Long Beach-Anaheim,Los Angeles County,590326
+96961,3026,92629,Zip,CA,CA,Dana Point,Los Angeles-Long Beach-Anaheim,Orange County,1179482
+98087,3028,95301,Zip,CA,CA,Atwater,Merced,Merced County,288313
+96522,3050,91789,Zip,CA,CA,Walnut,Los Angeles-Long Beach-Anaheim,Los Angeles County,796119
+96292,3052,91104,Zip,CA,CA,Pasadena,Los Angeles-Long Beach-Anaheim,Los Angeles County,897578
+98236,3053,95482,Zip,CA,CA,Ukiah,Ukiah,Mendocino County,413527
+96090,3055,90220,Zip,CA,CA,Compton,Los Angeles-Long Beach-Anaheim,Los Angeles County,463680
+98140,3055,95361,Zip,CA,CA,Oakdale,Modesto,Stanislaus County,415427
+97179,3059,93245,Zip,CA,CA,Lemoore,Hanford-Corcoran,Kings County,270199
+97881,3061,94941,Zip,CA,CA,Mill Valley,San Francisco-Oakland-Hayward,Marin County,1684195
+97734,3062,94526,Zip,CA,CA,Danville,San Francisco-Oakland-Hayward,Contra Costa County,1469410
+98429,3072,95820,Zip,CA,CA,Sacramento,Sacramento--Roseville--Arden-Arcade,Sacramento County,314833
+96773,3079,92270,Zip,CA,CA,Rancho Mirage,Riverside-San Bernardino-Ontario,Riverside County,716451
+98131,3093,95351,Zip,CA,CA,Modesto,Modesto,Stanislaus County,270615
+98174,3094,95407,Zip,CA,CA,Santa Rosa,Santa Rosa,Sonoma County,543718
+98605,3100,96080,Zip,CA,CA,Red Bluff,Red Bluff,Tehama County,241562
+96373,3117,91350,Zip,CA,CA,Santa Clarita,Los Angeles-Long Beach-Anaheim,Los Angeles County,610855
+97793,3123,94588,Zip,CA,CA,Pleasanton,San Francisco-Oakland-Hayward,Alameda County,1059976
+98542,3124,96002,Zip,CA,CA,Redding,Redding,Shasta County,286696
+95998,3127,90017,Zip,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,893914
+96019,3131,90038,Zip,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,1286331
+96102,3152,90242,Zip,CA,CA,Downey,Los Angeles-Long Beach-Anaheim,Los Angeles County,587089
+98148,3154,95370,Zip,CA,CA,Sonora,Sonora,Tuolumne County,318131
+96095,3164,90230,Zip,CA,CA,Culver City,Los Angeles-Long Beach-Anaheim,Los Angeles County,1348243
+98497,3165,95945,Zip,CA,CA,Grass Valley,Truckee-Grass Valley,Nevada County,410662
+96356,3171,91326,Zip,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,856315
+96469,3177,91711,Zip,CA,CA,Claremont,Los Angeles-Long Beach-Anaheim,Los Angeles County,739741
+98443,3180,95834,Zip,CA,CA,Sacramento,Sacramento--Roseville--Arden-Arcade,Sacramento County,424012
+97026,3182,92807,Zip,CA,CA,Anaheim,Los Angeles-Long Beach-Anaheim,Orange County,806731
+96513,3209,91773,Zip,CA,CA,San Dimas,Los Angeles-Long Beach-Anaheim,Los Angeles County,685213
+96378,3213,91355,Zip,CA,CA,Santa Clarita,Los Angeles-Long Beach-Anaheim,Los Angeles County,650041
+96265,3213,91001,Zip,CA,CA,Altadena,Los Angeles-Long Beach-Anaheim,Los Angeles County,918239
+97542,3215,94070,Zip,CA,CA,San Carlos,San Francisco-Oakland-Hayward,San Mateo County,1955665
+98176,3220,95409,Zip,CA,CA,Santa Rosa,Santa Rosa,Sonoma County,694835
+96496,3222,91754,Zip,CA,CA,Monterey Park,Los Angeles-Long Beach-Anaheim,Los Angeles County,759095
+96133,3241,90301,Zip,CA,CA,Inglewood,Los Angeles-Long Beach-Anaheim,Los Angeles County,615655
+97988,3249,95120,Zip,CA,CA,San Jose,San Jose-Sunnyvale-Santa Clara,Santa Clara County,1550285
+96650,3256,92108,Zip,CA,CA,San Diego,San Diego-Carlsbad,San Diego County,647454
+98516,3258,95966,Zip,CA,CA,Oroville,Chico,Butte County,249808
+97416,3298,93705,Zip,CA,CA,Fresno,Fresno,Fresno County,226120
+97124,3300,93101,Zip,CA,CA,Santa Barbara,Santa Maria-Santa Barbara,Santa Barbara County,956026
+96349,3308,91316,Zip,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,1010727
+96559,3324,91941,Zip,CA,CA,La Mesa,San Diego-Carlsbad,San Diego County,703631
+96969,3330,92651,Zip,CA,CA,Laguna Beach,Los Angeles-Long Beach-Anaheim,Orange County,2488853
+96045,3333,90064,Zip,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,1901192
+96733,3335,92220,Zip,CA,CA,Banning,Riverside-San Bernardino-Ontario,Riverside County,276745
+97337,3353,93561,Zip,CA,CA,Tehachapi,Bakersfield,Kern County,300906
+96963,3354,92637,Zip,CA,CA,Laguna Woods,Los Angeles-Long Beach-Anaheim,Orange County,450471
+97859,3366,94903,Zip,CA,CA,San Rafael,San Francisco-Oakland-Hayward,Marin County,1083875
+96162,3380,90504,Zip,CA,CA,Torrance,Los Angeles-Long Beach-Anaheim,Los Angeles County,771051
+97381,3385,93638,Zip,CA,CA,Madera,Madera,Madera County,232336
+96672,3402,92131,Zip,CA,CA,San Diego,San Diego-Carlsbad,San Diego County,968321
+97253,3415,93422,Zip,CA,CA,Atascadero,San Luis Obispo-Paso Robles-Arroyo Grande,San Luis Obispo County,580537
+96517,3424,91780,Zip,CA,CA,Temple City,Los Angeles-Long Beach-Anaheim,Los Angeles County,804303
+98373,3432,95682,Zip,CA,CA,Shingle Springs,Sacramento--Roseville--Arden-Arcade,El Dorado County,526629
+97413,3441,93702,Zip,CA,CA,Fresno,Fresno,Fresno County,168129
+97804,3448,94602,Zip,CA,CA,Oakland,San Francisco-Oakland-Hayward,Alameda County,1044038
+96652,3450,92110,Zip,CA,CA,San Diego,San Diego-Carlsbad,San Diego County,908675
+97990,3464,95122,Zip,CA,CA,San Jose,San Jose-Sunnyvale-Santa Clara,Santa Clara County,761989
+96172,3485,90604,Zip,CA,CA,Whittier,Los Angeles-Long Beach-Anaheim,Los Angeles County,603342
+97001,3489,92701,Zip,CA,CA,Santa Ana,Los Angeles-Long Beach-Anaheim,Orange County,606097
+96484,3497,91739,Zip,CA,CA,Rancho Cucamonga,Riverside-San Bernardino-Ontario,San Bernardino County,716646
+95983,3503,90002,Zip,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,431692
+96020,3519,90039,Zip,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,1100037
+98121,3528,95340,Zip,CA,CA,Merced,Merced,Merced County,281811
+98540,3535,95993,Zip,CA,CA,Yuba City,Yuba City,Sutter County,372333
+96515,3562,91776,Zip,CA,CA,San Gabriel,Los Angeles-Long Beach-Anaheim,Los Angeles County,751407
+97251,3569,93420,Zip,CA,CA,Arroyo Grande,San Luis Obispo-Paso Robles-Arroyo Grande,San Luis Obispo County,720109
+97966,3569,95070,Zip,CA,CA,Saratoga,San Jose-Sunnyvale-Santa Clara,Santa Clara County,2832447
+96355,3597,91325,Zip,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,815959
+97021,3609,92802,Zip,CA,CA,Anaheim,Los Angeles-Long Beach-Anaheim,Orange County,662273
+97495,3634,93955,Zip,CA,CA,Seaside,Salinas,Monterey County,591318
+98038,3637,95204,Zip,CA,CA,Stockton,Stockton-Lodi,San Joaquin County,284462
+97537,3638,94063,Zip,CA,CA,Redwood City,San Francisco-Oakland-Hayward,San Mateo County,1200114
+97282,3638,93454,Zip,CA,CA,Santa Maria,Santa Maria-Santa Barbara,Santa Barbara County,406404
+96412,3648,91403,Zip,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,1472512
+96665,3659,92123,Zip,CA,CA,San Diego,San Diego-Carlsbad,San Diego County,686125
+96662,3668,92120,Zip,CA,CA,San Diego,San Diego-Carlsbad,San Diego County,745603
+98044,3674,95210,Zip,CA,CA,Stockton,Stockton-Lodi,San Joaquin County,294750
+97097,3675,93021,Zip,CA,CA,Moorpark,Oxnard-Thousand Oaks-Ventura,Ventura County,715580
+96379,3696,91356,Zip,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,1324595
+97380,3697,93637,Zip,CA,CA,Madera,Madera,Madera County,267419
+96375,3709,91352,Zip,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,635580
+96985,3715,92675,Zip,CA,CA,San Juan Capistrano,Los Angeles-Long Beach-Anaheim,Orange County,954160
+97696,3723,94306,Zip,CA,CA,Palo Alto,San Jose-Sunnyvale-Santa Clara,Santa Clara County,2905680
+98000,3733,95132,Zip,CA,CA,San Jose,San Jose-Sunnyvale-Santa Clara,Santa Clara County,1171953
+97718,3737,94510,Zip,CA,CA,Benicia,Vallejo-Fairfield,Solano County,681594
+97067,3741,92869,Zip,CA,CA,Orange,Los Angeles-Long Beach-Anaheim,Orange County,854666
+97421,3755,93710,Zip,CA,CA,Fresno,Fresno,Fresno County,293322
+96795,3770,92311,Zip,CA,CA,Barstow,Riverside-San Bernardino-Ontario,San Bernardino County,157887
+96581,3781,92008,Zip,CA,CA,Carlsbad,San Diego-Carlsbad,San Diego County,995565
+98447,3788,95838,Zip,CA,CA,Sacramento,Sacramento--Roseville--Arden-Arcade,Sacramento County,298640
+97809,3811,94607,Zip,CA,CA,Oakland,San Francisco-Oakland-Hayward,Alameda County,805639
+98450,3815,95842,Zip,CA,CA,Sacramento,Sacramento--Roseville--Arden-Arcade,Sacramento County,331935
+98136,3832,95356,Zip,CA,CA,Modesto,Modesto,Stanislaus County,406968
+96091,3833,90221,Zip,CA,CA,Compton,Los Angeles-Long Beach-Anaheim,Los Angeles County,464321
+96633,3833,92083,Zip,CA,CA,Vista,San Diego-Carlsbad,San Diego County,543251
+97399,3839,93657,Zip,CA,CA,Sanger,Fresno,Fresno County,276100
+96012,3849,90031,Zip,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,710814
+96268,3850,91007,Zip,CA,CA,Arcadia,Los Angeles-Long Beach-Anaheim,Los Angeles County,1245969
+98425,3867,95816,Zip,CA,CA,Sacramento,Sacramento--Roseville--Arden-Arcade,Sacramento County,628139
+98368,3870,95677,Zip,CA,CA,Rocklin,Sacramento--Roseville--Arden-Arcade,Placer County,509448
+98129,3873,95348,Zip,CA,CA,Merced,Merced,Merced County,291358
+98351,3894,95660,Zip,CA,CA,Sacramento,Sacramento--Roseville--Arden-Arcade,Sacramento County,296660
+97761,3910,94555,Zip,CA,CA,Fremont,San Francisco-Oakland-Hayward,Alameda County,1113076
+98011,3922,95148,Zip,CA,CA,San Jose,San Jose-Sunnyvale-Santa Clara,Santa Clara County,1052063
+97588,3933,94134,Zip,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,1080635
+96998,3934,92694,Zip,CA,CA,Ladera Ranch,Los Angeles-Long Beach-Anaheim,Orange County,937464
+96929,3954,92586,Zip,CA,CA,Menifee,Riverside-San Bernardino-Ontario,Riverside County,291824
+97738,3959,94530,Zip,CA,CA,El Cerrito,San Francisco-Oakland-Hayward,Contra Costa County,989203
+97756,3963,94549,Zip,CA,CA,Lafayette,San Francisco-Oakland-Hayward,Contra Costa County,1760042
+96004,3967,90023,Zip,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,505389
+98299,3968,95603,Zip,CA,CA,Auburn,Sacramento--Roseville--Arden-Arcade,Placer County,481176
+97498,3978,94002,Zip,CA,CA,Belmont,San Francisco-Oakland-Hayward,San Mateo County,1822089
+96936,3982,92595,Zip,CA,CA,Wildomar,Riverside-San Bernardino-Ontario,Riverside County,442831
+96181,3990,90621,Zip,CA,CA,Buena Park,Los Angeles-Long Beach-Anaheim,Orange County,639059
+96294,3995,91106,Zip,CA,CA,Pasadena,Los Angeles-Long Beach-Anaheim,Los Angeles County,1127268
+97986,4006,95118,Zip,CA,CA,San Jose,San Jose-Sunnyvale-Santa Clara,Santa Clara County,1198304
+96666,4020,92124,Zip,CA,CA,San Diego,San Diego-Carlsbad,San Diego County,798470
+97799,4030,94596,Zip,CA,CA,Walnut Creek,San Francisco-Oakland-Hayward,Contra Costa County,1060487
+98039,4034,95205,Zip,CA,CA,Stockton,Stockton-Lodi,San Joaquin County,242112
+97155,4044,93215,Zip,CA,CA,Delano,Bakersfield,Kern County,233330
+97050,4054,92843,Zip,CA,CA,Garden Grove,Los Angeles-Long Beach-Anaheim,Orange County,659721
+98231,4066,95472,Zip,CA,CA,Sebastopol,Santa Rosa,Sonoma County,890678
+96473,4076,91722,Zip,CA,CA,Covina,Los Angeles-Long Beach-Anaheim,Los Angeles County,544799
+97765,4086,94559,Zip,CA,CA,Napa,Napa,Napa County,690147
+97415,4111,93704,Zip,CA,CA,Fresno,Fresno,Fresno County,279480
+96352,4113,91321,Zip,CA,CA,Santa Clarita,Los Angeles-Long Beach-Anaheim,Los Angeles County,635374
+96939,4114,92602,Zip,CA,CA,Irvine,Los Angeles-Long Beach-Anaheim,Orange County,1227517
+96121,4117,90274,Zip,CA,CA,Palos Verdes Estates,Los Angeles-Long Beach-Anaheim,Los Angeles County,2016434
+97221,4118,93305,Zip,CA,CA,Bakersfield,Bakersfield,Kern County,176035
+96134,4125,90302,Zip,CA,CA,Inglewood,Los Angeles-Long Beach-Anaheim,Los Angeles County,703801
+97106,4129,93035,Zip,CA,CA,Oxnard,Oxnard-Thousand Oaks-Ventura,Ventura County,656985
+96913,4132,92555,Zip,CA,CA,Moreno Valley,Riverside-San Bernardino-Ontario,Riverside County,418582
+97578,4150,94124,Zip,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,1021740
+97800,4165,94597,Zip,CA,CA,Walnut Creek,San Francisco-Oakland-Hayward,Contra Costa County,890632
+96981,4169,92663,Zip,CA,CA,Newport Beach,Los Angeles-Long Beach-Anaheim,Orange County,2492237
+97586,4170,94132,Zip,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,1365670
+96524,4177,91791,Zip,CA,CA,West Covina,Los Angeles-Long Beach-Anaheim,Los Angeles County,668427
+97938,4186,95032,Zip,CA,CA,Los Gatos,San Jose-Sunnyvale-Santa Clara,Santa Clara County,1915588
+96169,4190,90601,Zip,CA,CA,Whittier,Los Angeles-Long Beach-Anaheim,Los Angeles County,647150
+97801,4192,94598,Zip,CA,CA,Walnut Creek,San Francisco-Oakland-Hayward,Contra Costa County,1162856
+96948,4207,92614,Zip,CA,CA,Irvine,Los Angeles-Long Beach-Anaheim,Orange County,940050
+96503,4209,91763,Zip,CA,CA,Montclair,Riverside-San Bernardino-Ontario,San Bernardino County,478079
+95996,4236,90015,Zip,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,789090
+97084,4248,93004,Zip,CA,CA,Ventura,Oxnard-Thousand Oaks-Ventura,Ventura County,611180
+98049,4259,95219,Zip,CA,CA,Stockton,Stockton-Lodi,San Joaquin County,427160
+97127,4261,93105,Zip,CA,CA,Santa Barbara,Santa Maria-Santa Barbara,Santa Barbara County,1310882
+96111,4265,90260,Zip,CA,CA,Lawndale,Los Angeles-Long Beach-Anaheim,Los Angeles County,664027
+96377,4285,91354,Zip,CA,CA,Santa Clarita,Los Angeles-Long Beach-Anaheim,Los Angeles County,640939
+96289,4287,91101,Zip,CA,CA,Pasadena,Los Angeles-Long Beach-Anaheim,Los Angeles County,754344
+97985,4292,95117,Zip,CA,CA,San Jose,San Jose-Sunnyvale-Santa Clara,Santa Clara County,1379786
+97417,4297,93706,Zip,CA,CA,Fresno,Fresno,Fresno County,171133
+98427,4312,95818,Zip,CA,CA,Sacramento,Sacramento--Roseville--Arden-Arcade,Sacramento County,644866
+97018,4335,92782,Zip,CA,CA,Tustin,Los Angeles-Long Beach-Anaheim,Orange County,1112848
+97487,4340,93933,Zip,CA,CA,Marina,Salinas,Monterey County,649681
+96631,4349,92081,Zip,CA,CA,Vista,San Diego-Carlsbad,San Diego County,618717
+96267,4361,91006,Zip,CA,CA,Arcadia,Los Angeles-Long Beach-Anaheim,Los Angeles County,1098957
+96212,4365,90712,Zip,CA,CA,Lakewood,Los Angeles-Long Beach-Anaheim,Los Angeles County,628377
+96173,4412,90605,Zip,CA,CA,Whittier,Los Angeles-Long Beach-Anaheim,Los Angeles County,562128
+98242,4414,95492,Zip,CA,CA,Windsor,Santa Rosa,Sonoma County,658670
+96784,4414,92284,Zip,CA,CA,Yucca Valley,Riverside-San Bernardino-Ontario,San Bernardino County,220845
+96971,4423,92653,Zip,CA,CA,Laguna Hills,Los Angeles-Long Beach-Anaheim,Orange County,879023
+97076,4425,92883,Zip,CA,CA,Corona,Riverside-San Bernardino-Ontario,Riverside County,527427
+96151,4432,90404,Zip,CA,CA,Santa Monica,Los Angeles-Long Beach-Anaheim,Los Angeles County,1473317
+97811,4440,94609,Zip,CA,CA,Oakland,San Francisco-Oakland-Hayward,Alameda County,1251664
+96495,4446,91752,Zip,CA,CA,Eastvale,Riverside-San Bernardino-Ontario,Riverside County,560692
+96330,4457,91214,Zip,CA,CA,Glendale,Los Angeles-Long Beach-Anaheim,Los Angeles County,937713
+97915,4465,95003,Zip,CA,CA,Aptos,Santa Cruz-Watsonville,Santa Cruz County,1027865
+97702,4500,94402,Zip,CA,CA,San Mateo,San Francisco-Oakland-Hayward,San Mateo County,2022380
+98327,4502,95632,Zip,CA,CA,Galt,Sacramento--Roseville--Arden-Arcade,Sacramento County,415514
+96280,4509,91030,Zip,CA,CA,South Pasadena,Los Angeles-Long Beach-Anaheim,Los Angeles County,1312775
+96680,4514,92139,Zip,CA,CA,San Diego,San Diego-Carlsbad,San Diego County,525626
+97752,4528,94545,Zip,CA,CA,Hayward,San Francisco-Oakland-Hayward,Alameda County,720191
+96778,4557,92277,Zip,CA,CA,Twentynine Palms,Riverside-San Bernardino-Ontario,San Bernardino County,155729
+96983,4562,92673,Zip,CA,CA,San Clemente,Los Angeles-Long Beach-Anaheim,Orange County,1055854
+96533,4578,91803,Zip,CA,CA,Alhambra,Los Angeles-Long Beach-Anaheim,Los Angeles County,737856
+98069,4587,95242,Zip,CA,CA,Lodi,Stockton-Lodi,San Joaquin County,436409
+97330,4598,93552,Zip,CA,CA,Palmdale,Los Angeles-Long Beach-Anaheim,Los Angeles County,342382
+97536,4616,94062,Zip,CA,CA,Redwood City,San Francisco-Oakland-Hayward,San Mateo County,2198498
+96989,4617,92679,Zip,CA,CA,Coto de Caza,Los Angeles-Long Beach-Anaheim,Orange County,1002823
+96387,4622,91364,Zip,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,999189
+98314,4624,95618,Zip,CA,CA,Davis,Sacramento--Roseville--Arden-Arcade,Yolo County,721868
+96374,4644,91351,Zip,CA,CA,Santa Clarita,Los Angeles-Long Beach-Anaheim,Los Angeles County,555314
+97790,4648,94585,Zip,CA,CA,Suisun City,Vallejo-Fairfield,Solano County,423881
+96745,4651,92236,Zip,CA,CA,Coachella,Riverside-San Bernardino-Ontario,Riverside County,272702
+97414,4655,93703,Zip,CA,CA,Fresno,Fresno,Fresno County,202427
+97726,4675,94518,Zip,CA,CA,Concord,San Francisco-Oakland-Hayward,Contra Costa County,786122
+96040,4687,90059,Zip,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,438657
+96022,4692,90041,Zip,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,967350
+97798,4692,94595,Zip,CA,CA,Walnut Creek,San Francisco-Oakland-Hayward,Contra Costa County,1139544
+97468,4727,93901,Zip,CA,CA,Salinas,Salinas,Monterey County,584066
+96109,4755,90254,Zip,CA,CA,Hermosa Beach,Los Angeles-Long Beach-Anaheim,Los Angeles County,2099367
+96480,4763,91733,Zip,CA,CA,South El Monte,Los Angeles-Long Beach-Anaheim,Los Angeles County,529941
+98545,4767,96007,Zip,CA,CA,Anderson,Redding,Shasta County,254272
+98433,4767,95824,Zip,CA,CA,Sacramento,Sacramento--Roseville--Arden-Arcade,Sacramento County,274357
+97805,4783,94603,Zip,CA,CA,Oakland,San Francisco-Oakland-Hayward,Alameda County,506238
+96244,4798,90810,Zip,CA,CA,Long Beach,Los Angeles-Long Beach-Anaheim,Los Angeles County,524351
+96284,4804,91042,Zip,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,720268
+96740,4806,92231,Zip,CA,CA,Calexico,El Centro,Imperial County,268214
+98438,4813,95829,Zip,CA,CA,Sacramento,Sacramento--Roseville--Arden-Arcade,Sacramento County,445098
+96926,4856,92583,Zip,CA,CA,San Jacinto,Riverside-San Bernardino-Ontario,Riverside County,294330
+97229,4874,93314,Zip,CA,CA,Rosedale,Bakersfield,Kern County,411374
+97006,4886,92706,Zip,CA,CA,Santa Ana,Los Angeles-Long Beach-Anaheim,Orange County,701761
+96447,4892,91602,Zip,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,1312382
+98246,4915,95501,Zip,CA,CA,Eureka,Eureka-Arcata-Fortuna,Humboldt County,296403
+96887,4927,92508,Zip,CA,CA,Riverside,Riverside-San Bernardino-Ontario,Riverside County,528745
+97820,4956,94619,Zip,CA,CA,Oakland,San Francisco-Oakland-Hayward,Alameda County,844800
+96788,4972,92301,Zip,CA,CA,Adelanto,Riverside-San Bernardino-Ontario,San Bernardino County,245098
+98248,4983,95503,Zip,CA,CA,Eureka,Eureka-Arcata-Fortuna,Humboldt County,327779
+97847,4991,94801,Zip,CA,CA,Richmond,San Francisco-Oakland-Hayward,Contra Costa County,527224
+96941,5002,92604,Zip,CA,CA,Irvine,Los Angeles-Long Beach-Anaheim,Orange County,900152
+98457,5009,95864,Zip,CA,CA,Arden-Arcade,Sacramento--Roseville--Arden-Arcade,Sacramento County,586559
+97814,5028,94612,Zip,CA,CA,Oakland,San Francisco-Oakland-Hayward,Alameda County,839737
+97794,5039,94589,Zip,CA,CA,Vallejo,Vallejo-Fairfield,Solano County,423087
+98172,5052,95405,Zip,CA,CA,Santa Rosa,Santa Rosa,Sonoma County,640402
+97397,5057,93654,Zip,CA,CA,Reedley,Fresno,Fresno County,250453
+96555,5072,91932,Zip,CA,CA,Imperial Beach,San Diego-Carlsbad,San Diego County,649995
+96338,5078,91303,Zip,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,628966
+96354,5087,91324,Zip,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,709017
+96857,5091,92394,Zip,CA,CA,Victorville,Riverside-San Bernardino-Ontario,San Bernardino County,276194
+96485,5101,91740,Zip,CA,CA,Glendora,Los Angeles-Long Beach-Anaheim,Los Angeles County,590482
+96584,5106,92011,Zip,CA,CA,Carlsbad,San Diego-Carlsbad,San Diego County,1064903
+97113,5126,93060,Zip,CA,CA,Santa Paula,Oxnard-Thousand Oaks-Ventura,Ventura County,505660
+96120,5132,90272,Zip,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,3531517
+96436,5134,91504,Zip,CA,CA,Burbank,Los Angeles-Long Beach-Anaheim,Los Angeles County,952022
+97999,5154,95131,Zip,CA,CA,San Jose,San Jose-Sunnyvale-Santa Clara,Santa Clara County,1137011
+97989,5154,95121,Zip,CA,CA,San Jose,San Jose-Sunnyvale-Santa Clara,Santa Clara County,893005
+96043,5167,90062,Zip,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,637905
+96661,5170,92119,Zip,CA,CA,San Diego,San Diego-Carlsbad,San Diego County,702519
+96337,5171,91302,Zip,CA,CA,Calabasas,Los Angeles-Long Beach-Anaheim,Los Angeles County,1510526
+96550,5178,91915,Zip,CA,CA,Chula Vista,San Diego-Carlsbad,San Diego County,654470
+96213,5183,90713,Zip,CA,CA,Lakewood,Los Angeles-Long Beach-Anaheim,Los Angeles County,648849
+96203,5192,90680,Zip,CA,CA,Stanton,Los Angeles-Long Beach-Anaheim,Orange County,609114
+97822,5230,94621,Zip,CA,CA,Oakland,San Francisco-Oakland-Hayward,Alameda County,467864
+98138,5246,95358,Zip,CA,CA,Modesto,Modesto,Stanislaus County,313746
+97786,5255,94580,Zip,CA,CA,San Lorenzo,San Francisco-Oakland-Hayward,Alameda County,700272
+97838,5271,94704,Zip,CA,CA,Berkeley,San Francisco-Oakland-Hayward,Alameda County,1578611
+97885,5286,94947,Zip,CA,CA,Novato,San Francisco-Oakland-Hayward,Marin County,839600
+97402,5291,93662,Zip,CA,CA,Selma,Fresno,Fresno County,241886
+96486,5328,91741,Zip,CA,CA,Glendora,Los Angeles-Long Beach-Anaheim,Los Angeles County,751141
+96818,5334,92337,Zip,CA,CA,Fontana,Riverside-San Bernardino-Ontario,San Bernardino County,421412
+97849,5335,94803,Zip,CA,CA,El Sobrante,San Francisco-Oakland-Hayward,Contra Costa County,625485
+98122,5338,95341,Zip,CA,CA,Merced,Merced,Merced County,234247
+96830,5343,92354,Zip,CA,CA,Loma Linda,Riverside-San Bernardino-Ontario,San Bernardino County,466977
+98424,5344,95815,Zip,CA,CA,Sacramento,Sacramento--Roseville--Arden-Arcade,Sacramento County,272804
+96246,5351,90814,Zip,CA,CA,Long Beach,Los Angeles-Long Beach-Anaheim,Los Angeles County,934637
+96086,5355,90210,Zip,CA,CA,Beverly Hills,Los Angeles-Long Beach-Anaheim,Los Angeles County,5971983
+96525,5364,91792,Zip,CA,CA,West Covina,Los Angeles-Long Beach-Anaheim,Los Angeles County,594985
+96106,5365,90249,Zip,CA,CA,Gardena,Los Angeles-Long Beach-Anaheim,Los Angeles County,634502
+96518,5382,91784,Zip,CA,CA,Upland,Riverside-San Bernardino-Ontario,San Bernardino County,727784
+97048,5400,92841,Zip,CA,CA,Garden Grove,Los Angeles-Long Beach-Anaheim,Orange County,689041
+96336,5402,91301,Zip,CA,CA,Agoura Hills,Los Angeles-Long Beach-Anaheim,Los Angeles County,1000554
+97521,5408,94030,Zip,CA,CA,Millbrae,San Francisco-Oakland-Hayward,San Mateo County,1761928
+96420,5409,91411,Zip,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,897233
+98449,5420,95841,Zip,CA,CA,Sacramento,Sacramento--Roseville--Arden-Arcade,Sacramento County,351463
+96210,5437,90710,Zip,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,680989
+98154,5448,95377,Zip,CA,CA,Tracy,Stockton-Lodi,San Joaquin County,554381
+96217,5448,90717,Zip,CA,CA,Lomita,Los Angeles-Long Beach-Anaheim,Los Angeles County,761016
+98134,5458,95354,Zip,CA,CA,Modesto,Modesto,Stanislaus County,293819
+98510,5459,95959,Zip,CA,CA,Nevada City,Truckee-Grass Valley,Nevada County,484899
+98512,5473,95961,Zip,CA,CA,Olivehurst,Yuba City,Yuba County,301640
+97043,5492,92835,Zip,CA,CA,Fullerton,Los Angeles-Long Beach-Anaheim,Orange County,877549
+97547,5501,94085,Zip,CA,CA,Sunnyvale,San Jose-Sunnyvale-Santa Clara,Santa Clara County,1280981
+97074,5505,92881,Zip,CA,CA,Corona,Riverside-San Bernardino-Ontario,Riverside County,604798
+96866,5514,92405,Zip,CA,CA,San Bernardino,Riverside-San Bernardino-Ontario,San Bernardino County,306184
+96660,5525,92118,Zip,CA,CA,Coronado,San Diego-Carlsbad,San Diego County,2027581
+97837,5531,94703,Zip,CA,CA,Berkeley,San Francisco-Oakland-Hayward,Alameda County,1277851
+97244,5533,93405,Zip,CA,CA,San Luis Obispo,San Luis Obispo-Paso Robles-Arroyo Grande,San Luis Obispo County,791125
+96738,5553,92227,Zip,CA,CA,Brawley,El Centro,Imperial County,245981
+96218,5574,90720,Zip,CA,CA,Los Alamitos,Los Angeles-Long Beach-Anaheim,Orange County,1080583
+98418,5578,95776,Zip,CA,CA,Woodland,Sacramento--Roseville--Arden-Arcade,Yolo County,437386
+97754,5592,94547,Zip,CA,CA,Hercules,San Francisco-Oakland-Hayward,Contra Costa County,769158
+98259,5598,95531,Zip,CA,CA,Crescent City,Crescent City,Del Norte County,255133
+96321,5598,91202,Zip,CA,CA,Glendale,Los Angeles-Long Beach-Anaheim,Los Angeles County,1062293
+96563,5607,91945,Zip,CA,CA,Lemon Grove,San Diego-Carlsbad,San Diego County,527263
+97551,5667,94089,Zip,CA,CA,Sunnyvale,San Jose-Sunnyvale-Santa Clara,Santa Clara County,1181847
+98253,5675,95521,Zip,CA,CA,Arcata,Eureka-Arcata-Fortuna,Humboldt County,354817
+97040,5689,92832,Zip,CA,CA,Fullerton,Los Angeles-Long Beach-Anaheim,Orange County,632086
+96497,5702,91755,Zip,CA,CA,Monterey Park,Los Angeles-Long Beach-Anaheim,Los Angeles County,705091
+98001,5733,95133,Zip,CA,CA,San Jose,San Jose-Sunnyvale-Santa Clara,Santa Clara County,954169
+96222,5795,90732,Zip,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,830248
+97066,5800,92868,Zip,CA,CA,Orange,Los Angeles-Long Beach-Anaheim,Orange County,643471
+97364,5813,93618,Zip,CA,CA,Dinuba,Visalia-Porterville,Tulare County,238040
+96174,5823,90606,Zip,CA,CA,Whittier,Los Angeles-Long Beach-Anaheim,Los Angeles County,536173
+97955,5826,95054,Zip,CA,CA,Santa Clara,San Jose-Sunnyvale-Santa Clara,Santa Clara County,1291912
+96291,5840,91103,Zip,CA,CA,Pasadena,Los Angeles-Long Beach-Anaheim,Los Angeles County,864627
+98436,5846,95827,Zip,CA,CA,Rancho Cordova,Sacramento--Roseville--Arden-Arcade,Sacramento County,355848
+97272,5865,93444,Zip,CA,CA,Nipomo,San Luis Obispo-Paso Robles-Arroyo Grande,San Luis Obispo County,658306
+96475,5871,91724,Zip,CA,CA,Covina,Los Angeles-Long Beach-Anaheim,Los Angeles County,649230
+98663,5876,96150,Zip,CA,CA,South Lake Tahoe,Sacramento--Roseville--Arden-Arcade,El Dorado County,486024
+98141,5878,95363,Zip,CA,CA,Patterson,Modesto,Stanislaus County,389074
+97492,5883,93950,Zip,CA,CA,Pacific Grove,Salinas,Monterey County,963110
+96937,5907,92596,Zip,CA,CA,Winchester,Riverside-San Bernardino-Ontario,Riverside County,468614
+97714,5922,94506,Zip,CA,CA,Danville,San Francisco-Oakland-Hayward,Contra Costa County,2117953
+96433,5942,91501,Zip,CA,CA,Burbank,Los Angeles-Long Beach-Anaheim,Los Angeles County,1082064
+97336,5974,93560,Zip,CA,CA,Rosamond,Bakersfield,Kern County,276092
+98501,5978,95949,Zip,CA,CA,Grass Valley,Truckee-Grass Valley,Nevada County,454609
+97840,5980,94706,Zip,CA,CA,Albany,San Francisco-Oakland-Hayward,Alameda County,1176488
+98208,5994,95448,Zip,CA,CA,Healdsburg,Santa Rosa,Sonoma County,843074
+96943,5995,92606,Zip,CA,CA,Irvine,Los Angeles-Long Beach-Anaheim,Orange County,932445
+96384,6008,91361,Zip,CA,CA,Westlake Village,Oxnard-Thousand Oaks-Ventura,Ventura County,1221067
+96909,6015,92551,Zip,CA,CA,Moreno Valley,Riverside-San Bernardino-Ontario,Riverside County,354882
+96320,6036,91201,Zip,CA,CA,Glendale,Los Angeles-Long Beach-Anaheim,Los Angeles County,971105
+97515,6051,94024,Zip,CA,CA,Los Altos,San Jose-Sunnyvale-Santa Clara,Santa Clara County,3209968
+98428,6055,95819,Zip,CA,CA,Sacramento,Sacramento--Roseville--Arden-Arcade,Sacramento County,624975
+96342,6059,91307,Zip,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,749896
+96514,6061,91775,Zip,CA,CA,San Gabriel,Los Angeles-Long Beach-Anaheim,Los Angeles County,937092
+97560,6071,94105,Zip,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,1341319
+96483,6083,91737,Zip,CA,CA,Rancho Cucamonga,Riverside-San Bernardino-Ontario,San Bernardino County,719216
+97109,6096,93041,Zip,CA,CA,Port Hueneme,Oxnard-Thousand Oaks-Ventura,Ventura County,491686
+98515,6117,95965,Zip,CA,CA,Oroville,Chico,Butte County,242476
+96170,6120,90602,Zip,CA,CA,Whittier,Los Angeles-Long Beach-Anaheim,Los Angeles County,613426
+97099,6167,93023,Zip,CA,CA,Ojai,Oxnard-Thousand Oaks-Ventura,Ventura County,702304
+96230,6186,90746,Zip,CA,CA,Carson,Los Angeles-Long Beach-Anaheim,Los Angeles County,633880
+97836,6205,94702,Zip,CA,CA,Berkeley,San Francisco-Oakland-Hayward,Alameda County,1071081
+96116,6223,90265,Zip,CA,CA,Malibu,Los Angeles-Long Beach-Anaheim,Los Angeles County,3733448
+98252,6271,95519,Zip,CA,CA,McKinleyville,Eureka-Arcata-Fortuna,Humboldt County,362142
+96508,6283,91768,Zip,CA,CA,Pomona,Los Angeles-Long Beach-Anaheim,Los Angeles County,468205
+96366,6293,91340,Zip,CA,CA,San Fernando,Los Angeles-Long Beach-Anaheim,Los Angeles County,541481
+98410,6299,95746,Zip,CA,CA,Granite Bay,Sacramento--Roseville--Arden-Arcade,Placer County,836300
+96100,6306,90240,Zip,CA,CA,Downey,Los Angeles-Long Beach-Anaheim,Los Angeles County,665379
+96270,6333,91010,Zip,CA,CA,Duarte,Los Angeles-Long Beach-Anaheim,Los Angeles County,589419
+96648,6356,92106,Zip,CA,CA,San Diego,San Diego-Carlsbad,San Diego County,1244127
+96800,6386,92316,Zip,CA,CA,Bloomington,Riverside-San Bernardino-Ontario,San Bernardino County,379389
+97058,6399,92860,Zip,CA,CA,Norco,Riverside-San Bernardino-Ontario,Riverside County,596982
+97691,6425,94301,Zip,CA,CA,Palo Alto,San Jose-Sunnyvale-Santa Clara,Santa Clara County,3999655
+98145,6456,95367,Zip,CA,CA,Riverbank,Modesto,Stanislaus County,359613
+96438,6469,91506,Zip,CA,CA,Burbank,Los Angeles-Long Beach-Anaheim,Los Angeles County,902872
+96478,6475,91731,Zip,CA,CA,El Monte,Los Angeles-Long Beach-Anaheim,Los Angeles County,538307
+97581,6496,94127,Zip,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,1801257
+98316,6513,95620,Zip,CA,CA,Dixon,Vallejo-Fairfield,Solano County,456509
+96103,6513,90245,Zip,CA,CA,El Segundo,Los Angeles-Long Beach-Anaheim,Los Angeles County,1496516
+98046,6533,95212,Zip,CA,CA,Stockton,Stockton-Lodi,San Joaquin County,416043
+96900,6565,92532,Zip,CA,CA,Lake Elsinore,Riverside-San Bernardino-Ontario,Riverside County,430228
+96282,6566,91040,Zip,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,702372
+96940,6572,92603,Zip,CA,CA,Irvine,Los Angeles-Long Beach-Anaheim,Orange County,1668330
+96042,6578,90061,Zip,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,469488
+97513,6584,94022,Zip,CA,CA,Los Altos,San Jose-Sunnyvale-Santa Clara,Santa Clara County,3874984
+97819,6591,94618,Zip,CA,CA,Oakland,San Francisco-Oakland-Hayward,Alameda County,1734972
+98200,6608,95437,Zip,CA,CA,Fort Bragg,Ukiah,Mendocino County,429437
+96707,6676,92173,Zip,CA,CA,San Diego,San Diego-Carlsbad,San Diego County,531193
+97769,6681,94563,Zip,CA,CA,Orinda,San Francisco-Oakland-Hayward,Contra Costa County,2219517
+97563,6684,94108,Zip,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,3039925
+96092,6686,90222,Zip,CA,CA,Compton,Los Angeles-Long Beach-Anaheim,Los Angeles County,443906
+97770,6687,94564,Zip,CA,CA,Pinole,San Francisco-Oakland-Hayward,Contra Costa County,674282
+96598,6716,92029,Zip,CA,CA,Escondido,San Diego-Carlsbad,San Diego County,779244
+97027,6729,92808,Zip,CA,CA,Anaheim,Los Angeles-Long Beach-Anaheim,Orange County,864805
+98186,6752,95422,Zip,CA,CA,Clearlake,Clearlake,Lake County,171191
+96097,6767,90232,Zip,CA,CA,Culver City,Los Angeles-Long Beach-Anaheim,Los Angeles County,1607238
+96928,6792,92585,Zip,CA,CA,Menifee,Riverside-San Bernardino-Ontario,Riverside County,396951
+96322,6793,91203,Zip,CA,CA,Glendale,Los Angeles-Long Beach-Anaheim,Los Angeles County,754278
+96135,6794,90303,Zip,CA,CA,Inglewood,Los Angeles-Long Beach-Anaheim,Los Angeles County,639581
+98003,6804,95135,Zip,CA,CA,San Jose,San Jose-Sunnyvale-Santa Clara,Santa Clara County,1435397
+98114,6857,95330,Zip,CA,CA,Lathrop,Stockton-Lodi,San Joaquin County,454212
+97126,6867,93103,Zip,CA,CA,Santa Barbara,Santa Maria-Santa Barbara,Santa Barbara County,1346373
+97887,6890,94949,Zip,CA,CA,Novato,San Francisco-Oakland-Hayward,Marin County,1007985
+97472,6891,93907,Zip,CA,CA,Salinas,Salinas,Monterey County,615963
+96871,6894,92411,Zip,CA,CA,San Bernardino,Riverside-San Bernardino-Ontario,San Bernardino County,282083
+96632,6954,92082,Zip,CA,CA,Valley Center,San Diego-Carlsbad,San Diego County,651743
+98298,6958,95602,Zip,CA,CA,Auburn,Sacramento--Roseville--Arden-Arcade,Placer County,518886
+96474,6981,91723,Zip,CA,CA,Covina,Los Angeles-Long Beach-Anaheim,Los Angeles County,594069
+97079,7006,92887,Zip,CA,CA,Yorba Linda,Los Angeles-Long Beach-Anaheim,Orange County,995203
+96880,7013,92501,Zip,CA,CA,Riverside,Riverside-San Bernardino-Ontario,Riverside County,384219
+96756,7030,92251,Zip,CA,CA,Imperial,El Centro,Imperial County,275511
+97785,7035,94579,Zip,CA,CA,San Leandro,San Francisco-Oakland-Hayward,Alameda County,734897
+98672,7076,96161,Zip,CA,CA,Truckee,Truckee-Grass Valley,Nevada County,716202
+96398,7091,91384,Zip,CA,CA,Castaic,Los Angeles-Long Beach-Anaheim,Los Angeles County,607212
+96271,7111,91011,Zip,CA,CA,La Canada Flintridge,Los Angeles-Long Beach-Anaheim,Los Angeles County,1748059
+97208,7117,93280,Zip,CA,CA,Wasco,Bakersfield,Kern County,212079
+96171,7122,90603,Zip,CA,CA,Whittier,Los Angeles-Long Beach-Anaheim,Los Angeles County,641402
+97528,7153,94041,Zip,CA,CA,Mountain View,San Jose-Sunnyvale-Santa Clara,Santa Clara County,1988349
+98048,7158,95215,Zip,CA,CA,Garden Acres,Stockton-Lodi,San Joaquin County,295629
+97727,7172,94519,Zip,CA,CA,Concord,San Francisco-Oakland-Hayward,Contra Costa County,598833
+98558,7194,96022,Zip,CA,CA,Cottonwood,Red Bluff,Tehama County,290080
+96957,7196,92625,Zip,CA,CA,Newport Beach,Los Angeles-Long Beach-Anaheim,Orange County,3347780
+96395,7207,91381,Zip,CA,CA,Santa Clarita,Los Angeles-Long Beach-Anaheim,Los Angeles County,858077
+96136,7212,90304,Zip,CA,CA,Inglewood,Los Angeles-Long Beach-Anaheim,Los Angeles County,610870
+97883,7225,94945,Zip,CA,CA,Novato,San Francisco-Oakland-Hayward,Marin County,880175
+96586,7238,92014,Zip,CA,CA,Del Mar,San Diego-Carlsbad,San Diego County,2074056
+96129,7239,90293,Zip,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,1787783
+97978,7252,95110,Zip,CA,CA,San Jose,San Jose-Sunnyvale-Santa Clara,Santa Clara County,889768
+96490,7266,91746,Zip,CA,CA,West Puente Valley,Los Angeles-Long Beach-Anaheim,Los Angeles County,529906
+98144,7280,95366,Zip,CA,CA,Ripon,Stockton-Lodi,San Joaquin County,508104
+95994,7283,90013,Zip,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,771678
+98426,7304,95817,Zip,CA,CA,Sacramento,Sacramento--Roseville--Arden-Arcade,Sacramento County,419770
+96847,7318,92377,Zip,CA,CA,Rialto,Riverside-San Bernardino-Ontario,San Bernardino County,446629
+98649,7318,96130,Zip,CA,CA,Susanville,Susanville,Lassen County,182782
+97063,7334,92865,Zip,CA,CA,Orange,Los Angeles-Long Beach-Anaheim,Orange County,749281
+96583,7339,92010,Zip,CA,CA,Carlsbad,San Diego-Carlsbad,San Diego County,818269
+97433,7397,93725,Zip,CA,CA,Fresno,Fresno,Fresno County,219455
+97051,7407,92844,Zip,CA,CA,Garden Grove,Los Angeles-Long Beach-Anaheim,Orange County,671590
+96119,7422,90270,Zip,CA,CA,Maywood,Los Angeles-Long Beach-Anaheim,Los Angeles County,469060
+97092,7437,93013,Zip,CA,CA,Carpinteria,Santa Maria-Santa Barbara,Santa Barbara County,1157822
+97133,7446,93111,Zip,CA,CA,Santa Barbara,Santa Maria-Santa Barbara,Santa Barbara County,1042671
+96088,7464,90212,Zip,CA,CA,Beverly Hills,Los Angeles-Long Beach-Anaheim,Los Angeles County,3417131
+97510,7466,94019,Zip,CA,CA,Half Moon Bay,San Francisco-Oakland-Hayward,San Mateo County,1332101
+98557,7483,96021,Zip,CA,CA,Corning,Red Bluff,Tehama County,219742
+97132,7488,93110,Zip,CA,CA,Santa Barbara,Santa Maria-Santa Barbara,Santa Barbara County,1368541
+96137,7510,90305,Zip,CA,CA,Inglewood,Los Angeles-Long Beach-Anaheim,Los Angeles County,681622
+98241,7533,95490,Zip,CA,CA,Willits,Ukiah,Mendocino County,305378
+97839,7545,94705,Zip,CA,CA,Berkeley,San Francisco-Oakland-Hayward,Alameda County,1892179
+96403,7552,91390,Zip,CA,CA,Santa Clarita,Los Angeles-Long Beach-Anaheim,Los Angeles County,698675
+96323,7579,91204,Zip,CA,CA,Glendale,Los Angeles-Long Beach-Anaheim,Los Angeles County,789781
+96293,7589,91105,Zip,CA,CA,Pasadena,Los Angeles-Long Beach-Anaheim,Los Angeles County,1523135
+97301,7617,93514,Zip,CA,CA,Bishop,,Inyo County,419721
+96628,7618,92075,Zip,CA,CA,Solana Beach,San Diego-Carlsbad,San Diego County,1718183
+97713,7622,94503,Zip,CA,CA,American Canyon,Napa,Napa County,599338
+96215,7662,90715,Zip,CA,CA,Lakewood,Los Angeles-Long Beach-Anaheim,Los Angeles County,612829
+96327,7708,91208,Zip,CA,CA,Glendale,Los Angeles-Long Beach-Anaheim,Los Angeles County,1153573
+98514,7730,95963,Zip,CA,CA,Orland,,Glenn County,267585
+96538,7740,91901,Zip,CA,CA,Alpine,San Diego-Carlsbad,San Diego County,687099
+97375,7741,93630,Zip,CA,CA,Kerman,Fresno,Fresno County,270348
+98423,7744,95814,Zip,CA,CA,Sacramento,Sacramento--Roseville--Arden-Arcade,Sacramento County,628547
+98265,7756,95540,Zip,CA,CA,Fortuna,Eureka-Arcata-Fortuna,Humboldt County,330107
+97357,7761,93610,Zip,CA,CA,Chowchilla,Madera,Madera County,261928
+96160,7767,90502,Zip,CA,CA,West Carson,Los Angeles-Long Beach-Anaheim,Los Angeles County,618022
+97194,7797,93263,Zip,CA,CA,Shafter,Bakersfield,Kern County,230179
+96824,7800,92344,Zip,CA,CA,Hesperia,Riverside-San Bernardino-Ontario,San Bernardino County,337253
+399681,7808,94505,Zip,CA,CA,Discovery Bay,San Francisco-Oakland-Hayward,Contra Costa County,649307
+97896,7826,94960,Zip,CA,CA,San Anselmo,San Francisco-Oakland-Hayward,Marin County,1267885
+97436,7837,93728,Zip,CA,CA,Fresno,Fresno,Fresno County,204798
+97242,7863,93402,Zip,CA,CA,Los Osos,San Luis Obispo-Paso Robles-Arroyo Grande,San Luis Obispo County,621741
+97376,7865,93631,Zip,CA,CA,Kingsburg,Fresno,Fresno County,299563
+96930,7880,92587,Zip,CA,CA,Canyon Lake,Riverside-San Bernardino-Ontario,Riverside County,437033
+97865,7917,94920,Zip,CA,CA,Tiburon,San Francisco-Oakland-Hayward,Marin County,3069519
+96539,7931,91902,Zip,CA,CA,Bonita,San Diego-Carlsbad,San Diego County,747775
+98006,7945,95138,Zip,CA,CA,San Jose,San Jose-Sunnyvale-Santa Clara,Santa Clara County,1411392
+97899,7951,94965,Zip,CA,CA,Sausalito,San Francisco-Oakland-Hayward,Marin County,1540793
+97483,7961,93927,Zip,CA,CA,Greenfield,Salinas,Monterey County,359256
+97479,7963,93923,Zip,CA,CA,Carmel-by-the-Sea,Salinas,Monterey County,1801390
+98166,7967,95391,Zip,CA,CA,Tracy,Stockton-Lodi,San Joaquin County,664534
+97715,7984,94507,Zip,CA,CA,Alamo,San Francisco-Oakland-Hayward,Contra Costa County,2044513
+98505,7987,95954,Zip,CA,CA,Magalia,Chico,Butte County,236309
+96736,7996,92225,Zip,CA,CA,Blythe,Riverside-San Bernardino-Ontario,Riverside County,165364
+97064,7999,92866,Zip,CA,CA,Orange,Los Angeles-Long Beach-Anaheim,Orange County,744971
+97762,8012,94556,Zip,CA,CA,Moraga,San Francisco-Oakland-Hayward,Contra Costa County,1877228
+97964,8030,95066,Zip,CA,CA,Scotts Valley,Santa Cruz-Watsonville,Santa Cruz County,998858
+96072,8052,90094,Zip,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,1931073
+97198,8093,93268,Zip,CA,CA,Taft,Bakersfield,Kern County,138424
+97922,8105,95010,Zip,CA,CA,Capitola,Santa Cruz-Watsonville,Santa Cruz County,1000644
+97843,8114,94709,Zip,CA,CA,Berkeley,San Francisco-Oakland-Hayward,Alameda County,1555315
+98120,8152,95338,Zip,CA,CA,Mariposa,,Mariposa County,307079
+98077,8161,95252,Zip,CA,CA,Valley Springs,,Calaveras County,364569
+96426,8183,91436,Zip,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,1896711
+96148,8224,90401,Zip,CA,CA,Santa Monica,Los Angeles-Long Beach-Anaheim,Los Angeles County,2337006
+97181,8247,93247,Zip,CA,CA,Lindsay,Visalia-Porterville,Tulare County,210526
+97270,8256,93442,Zip,CA,CA,Morro Bay,San Luis Obispo-Paso Robles-Arroyo Grande,San Luis Obispo County,697664
+98037,8264,95203,Zip,CA,CA,Stockton,Stockton-Lodi,San Joaquin County,277203
+97217,8267,93301,Zip,CA,CA,Bakersfield,Bakersfield,Kern County,216486
+97052,8267,92845,Zip,CA,CA,Garden Grove,Los Angeles-Long Beach-Anaheim,Orange County,749236
+98211,8276,95451,Zip,CA,CA,Kelseyville,Clearlake,Lake County,295973
+97777,8350,94571,Zip,CA,CA,Rio Vista,Vallejo-Fairfield,Solano County,392734
+97496,8390,93960,Zip,CA,CA,Soledad,Salinas,Monterey County,432311
+98213,8400,95453,Zip,CA,CA,Lakeport,Clearlake,Lake County,312135
+97262,8406,93433,Zip,CA,CA,Grover Beach,San Luis Obispo-Paso Robles-Arroyo Grande,San Luis Obispo County,557038
+97160,8416,93221,Zip,CA,CA,Exeter,Visalia-Porterville,Tulare County,246004
+96149,8431,90402,Zip,CA,CA,Santa Monica,Los Angeles-Long Beach-Anaheim,Los Angeles County,4509513
+97851,8438,94805,Zip,CA,CA,Richmond,San Francisco-Oakland-Hayward,Contra Costa County,636603
+97936,8463,95030,Zip,CA,CA,Los Gatos,San Jose-Sunnyvale-Santa Clara,Santa Clara County,2857128
+97147,8466,93203,Zip,CA,CA,Arvin,Bakersfield,Kern County,195249
+98364,8489,95673,Zip,CA,CA,Rio Linda,Sacramento--Roseville--Arden-Arcade,Sacramento County,332874
+97841,8517,94707,Zip,CA,CA,Berkeley,San Francisco-Oakland-Hayward,Alameda County,1656695
+97860,8522,94904,Zip,CA,CA,Kentfield,San Francisco-Oakland-Hayward,Marin County,1951228
+98137,8535,95357,Zip,CA,CA,Modesto,Modesto,Stanislaus County,376803
+96201,8537,90670,Zip,CA,CA,Santa Fe Springs,Los Angeles-Long Beach-Anaheim,Los Angeles County,547652
+96434,8549,91502,Zip,CA,CA,Burbank,Los Angeles-Long Beach-Anaheim,Los Angeles County,799061
+98342,8559,95650,Zip,CA,CA,Loomis,Sacramento--Roseville--Arden-Arcade,Placer County,648226
+97485,8577,93930,Zip,CA,CA,King City,Salinas,Monterey County,345657
+98301,8598,95605,Zip,CA,CA,West Sacramento,Sacramento--Roseville--Arden-Arcade,Yolo County,317688
+96775,8624,92274,Zip,CA,CA,Thermal,El Centro,Imperial County,176871
+97094,8642,93015,Zip,CA,CA,Fillmore,Oxnard-Thousand Oaks-Ventura,Ventura County,492164
+96798,8653,92314,Zip,CA,CA,Big Bear City,Riverside-San Bernardino-Ontario,San Bernardino County,271492
+98498,8656,95946,Zip,CA,CA,Penn Valley,Truckee-Grass Valley,Nevada County,414564
+97712,8672,94502,Zip,CA,CA,Alameda,San Francisco-Oakland-Hayward,Alameda County,986307
+96393,8675,91377,Zip,CA,CA,Oak Park,Oxnard-Thousand Oaks-Ventura,Ventura County,909717
+96925,8680,92582,Zip,CA,CA,San Jacinto,Riverside-San Bernardino-Ontario,Riverside County,341249
+96183,8698,90623,Zip,CA,CA,La Palma,Los Angeles-Long Beach-Anaheim,Orange County,803289
+96371,8699,91345,Zip,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,593186
+97749,8717,94542,Zip,CA,CA,Hayward,San Francisco-Oakland-Hayward,Alameda County,941672
+98619,8727,96097,Zip,CA,CA,Yreka,,Siskiyou County,193664
+97725,8759,94517,Zip,CA,CA,Clayton,San Francisco-Oakland-Hayward,Contra Costa County,1010518
+97539,8792,94065,Zip,CA,CA,Redwood City,San Francisco-Oakland-Hayward,San Mateo County,1912672
+95995,8806,90014,Zip,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,632602
+97361,8810,93614,Zip,CA,CA,Coarsegold,Madera,Madera County,314515
+96580,8825,92007,Zip,CA,CA,Encinitas,San Diego-Carlsbad,San Diego County,1457718
+97759,8896,94552,Zip,CA,CA,Castro Valley,San Francisco-Oakland-Hayward,Alameda County,1100383
+97610,8898,94158,Zip,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,1781034
+97153,8929,93210,Zip,CA,CA,Coalinga,Fresno,Fresno County,194038
+96278,8957,91024,Zip,CA,CA,Sierra Madre,Los Angeles-Long Beach-Anaheim,Los Angeles County,1098254
+96549,8975,91914,Zip,CA,CA,Chula Vista,San Diego-Carlsbad,San Diego County,778930
+97998,8983,95130,Zip,CA,CA,San Jose,San Jose-Sunnyvale-Santa Clara,Santa Clara County,1414956
+97277,9018,93449,Zip,CA,CA,Pismo Beach,San Luis Obispo-Paso Robles-Arroyo Grande,San Luis Obispo County,935352
+98189,9022,95425,Zip,CA,CA,Cloverdale,Santa Rosa,Sonoma County,571908
+399680,9054,93730,Zip,CA,CA,Fresno,Fresno,Fresno County,498687
+97130,9056,93108,Zip,CA,CA,Montecito,Santa Maria-Santa Barbara,Santa Barbara County,3263912
+97297,9056,93505,Zip,CA,CA,California City,Bakersfield,Kern County,173957
+96951,9074,92617,Zip,CA,CA,Irvine,Los Angeles-Long Beach-Anaheim,Orange County,1225605
+97473,9102,93908,Zip,CA,CA,Salinas,Salinas,Monterey County,836798
+97842,9118,94708,Zip,CA,CA,Berkeley,San Francisco-Oakland-Hayward,Alameda County,1570453
+97387,9128,93644,Zip,CA,CA,Oakhurst,Madera,Madera County,323757
+97968,9167,95073,Zip,CA,CA,Soquel,Santa Cruz-Watsonville,Santa Cruz County,979333
+97154,9216,93212,Zip,CA,CA,Corcoran,Hanford-Corcoran,Kings County,174377
+98104,9240,95320,Zip,CA,CA,Escalon,Stockton-Lodi,San Joaquin County,448617
+96466,9248,91708,Zip,CA,CA,Chino,Riverside-San Bernardino-Ontario,San Bernardino County,546577
+97918,9259,95006,Zip,CA,CA,Boulder Creek,Santa Cruz-Watsonville,Santa Cruz County,638136
+98116,9292,95334,Zip,CA,CA,Livingston,Merced,Merced County,282320
+97291,9312,93465,Zip,CA,CA,Templeton,San Luis Obispo-Paso Robles-Arroyo Grande,San Luis Obispo County,658919
+98146,9340,95368,Zip,CA,CA,Salida,Modesto,Stanislaus County,371005
+399678,9374,93636,Zip,CA,CA,Madera,Madera,Madera County,382205
+96204,9377,90701,Zip,CA,CA,Artesia,Los Angeles-Long Beach-Anaheim,Los Angeles County,624487
+96808,9378,92325,Zip,CA,CA,Crestline,Riverside-San Bernardino-Ontario,San Bernardino County,248321
+97131,9379,93109,Zip,CA,CA,Santa Barbara,Santa Maria-Santa Barbara,Santa Barbara County,1431243
+98089,9381,95304,Zip,CA,CA,Tracy,Stockton-Lodi,San Joaquin County,671197
+96757,9399,92252,Zip,CA,CA,Joshua Tree,Riverside-San Bernardino-Ontario,San Bernardino County,219621
+96621,9401,92067,Zip,CA,CA,Rancho Santa Fe,San Diego-Carlsbad,San Diego County,2740915
+96797,9405,92313,Zip,CA,CA,Grand Terrace,Riverside-San Bernardino-Ontario,San Bernardino County,408525
+96234,9413,90755,Zip,CA,CA,Signal Hill,Los Angeles-Long Beach-Anaheim,Los Angeles County,715503
+98408,9428,95742,Zip,CA,CA,Rancho Cordova,Sacramento--Roseville--Arden-Arcade,Sacramento County,486688
+399682,9434,95811,Zip,CA,CA,Sacramento,Sacramento--Roseville--Arden-Arcade,Sacramento County,588446
+96975,9448,92657,Zip,CA,CA,Newport Beach,Los Angeles-Long Beach-Anaheim,Orange County,3622901
+96296,9450,91108,Zip,CA,CA,San Marino,Los Angeles-Long Beach-Anaheim,Los Angeles County,2387320
+97780,9488,94574,Zip,CA,CA,Saint Helena,Napa,Napa County,1564062
+97695,9500,94305,Zip,CA,CA,Stanford,San Jose-Sunnyvale-Santa Clara,Santa Clara County,3302679
+98594,9569,96067,Zip,CA,CA,Mount Shasta,,Siskiyou County,334567
+97326,9586,93546,Zip,CA,CA,Mammoth Lakes,,Mono County,782239
+98500,9587,95948,Zip,CA,CA,Gridley,Chico,Butte County,267929
+97391,9616,93648,Zip,CA,CA,Parlier,Fresno,Fresno County,217132
+96748,9618,92241,Zip,CA,CA,Desert Hot Springs,Riverside-San Bernardino-Ontario,Riverside County,243443
+96946,9624,92610,Zip,CA,CA,Lake Forest,Los Angeles-Long Beach-Anaheim,Orange County,848292
+98403,9639,95726,Zip,CA,CA,Pollock Pines,Sacramento--Roseville--Arden-Arcade,El Dorado County,330281
+97875,9773,94931,Zip,CA,CA,Cotati,Santa Rosa,Sonoma County,645469
+96037,9775,90056,Zip,CA,CA,Ladera Heights,Los Angeles-Long Beach-Anaheim,Los Angeles County,1456789
+98139,9785,95360,Zip,CA,CA,Newman,Modesto,Stanislaus County,334107
+98555,9788,96019,Zip,CA,CA,Shasta Lake,Redding,Shasta County,226715
+98164,9798,95388,Zip,CA,CA,Winton,Merced,Merced County,239630
+97383,9810,93640,Zip,CA,CA,Mendota,Fresno,Fresno County,216585
+97323,9830,93543,Zip,CA,CA,Littlerock,Los Angeles-Long Beach-Anaheim,Los Angeles County,311530
+96803,9857,92320,Zip,CA,CA,Calimesa,Riverside-San Bernardino-Ontario,Riverside County,376117
+97175,9863,93241,Zip,CA,CA,Lamont,Bakersfield,Kern County,152937
+96326,9878,91207,Zip,CA,CA,Glendale,Los Angeles-Long Beach-Anaheim,Los Angeles County,1237905
+96731,9945,92210,Zip,CA,CA,Indian Wells,Riverside-San Bernardino-Ontario,Riverside County,1006516
+97258,9947,93428,Zip,CA,CA,Cambria,San Luis Obispo-Paso Robles-Arroyo Grande,San Luis Obispo County,774042
+96869,9986,92408,Zip,CA,CA,San Bernardino,Riverside-San Bernardino-Ontario,San Bernardino County,317609
+97869,10041,94925,Zip,CA,CA,Corte Madera,San Francisco-Oakland-Hayward,Marin County,1474192
+98335,10074,95640,Zip,CA,CA,Ione,,Amador County,359879
+96087,10090,90211,Zip,CA,CA,Beverly Hills,Los Angeles-Long Beach-Anaheim,Los Angeles County,2639011
+96105,10189,90248,Zip,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,623663
+98110,10199,95326,Zip,CA,CA,Hughson,Modesto,Stanislaus County,403277
+96777,10215,92276,Zip,CA,CA,Thousand Palms,Riverside-San Bernardino-Ontario,Riverside County,278724
+96799,10267,92315,Zip,CA,CA,Big Bear Lake,Riverside-San Bernardino-Ontario,San Bernardino County,382426
+98337,10272,95642,Zip,CA,CA,Jackson,,Amador County,356268
+96058,10281,90077,Zip,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,3091247
+98099,10346,95315,Zip,CA,CA,Delhi,Merced,Merced County,283793
+97929,10387,95018,Zip,CA,CA,Felton,Santa Cruz-Watsonville,Santa Cruz County,711234
+98537,10401,95988,Zip,CA,CA,Willows,,Glenn County,214689
+98162,10421,95386,Zip,CA,CA,Waterford,Modesto,Stanislaus County,314391
+97183,10423,93250,Zip,CA,CA,Mc Farland,Bakersfield,Kern County,205676
+96216,10437,90716,Zip,CA,CA,Hawaiian Gardens,Los Angeles-Long Beach-Anaheim,Los Angeles County,515869
+97874,10466,94930,Zip,CA,CA,Fairfax,San Francisco-Oakland-Hayward,Marin County,998686
+98395,10497,95713,Zip,CA,CA,Colfax,Sacramento--Roseville--Arden-Arcade,Placer County,410907
+96841,10558,92371,Zip,CA,CA,Phelan,Riverside-San Bernardino-Ontario,San Bernardino County,307701
+97723,10560,94515,Zip,CA,CA,Calistoga,Napa,Napa County,1000256
+96759,10565,92254,Zip,CA,CA,Mecca,Riverside-San Bernardino-Ontario,Riverside County,213255
+98504,10614,95953,Zip,CA,CA,Live Oak,Yuba City,Sutter County,263595
+97412,10650,93701,Zip,CA,CA,Fresno,Fresno,Fresno County,171057
+97879,10661,94939,Zip,CA,CA,Larkspur,San Francisco-Oakland-Hayward,Marin County,1762044
+97939,10678,95033,Zip,CA,CA,Lexington Hills,San Jose-Sunnyvale-Santa Clara,Santa Clara County,1251723
+97480,10684,93924,Zip,CA,CA,Carmel Valley,Salinas,Monterey County,1095260
+98106,10723,95322,Zip,CA,CA,Gustine,Merced,Merced County,310206
+98385,10727,95694,Zip,CA,CA,Winters,Sacramento--Roseville--Arden-Arcade,Yolo County,465719
+96558,10805,91935,Zip,CA,CA,Jamul,San Diego-Carlsbad,San Diego County,714542
+97366,10838,93620,Zip,CA,CA,Dos Palos,Merced,Merced County,243672
+96956,10853,92624,Zip,CA,CA,Dana Point,Los Angeles-Long Beach-Anaheim,Orange County,1082756
+399679,10865,93723,Zip,CA,CA,Fresno,Fresno,Fresno County,361567
+97289,10918,93463,Zip,CA,CA,Solvang,Santa Maria-Santa Barbara,Santa Barbara County,874518
+98485,10938,95932,Zip,CA,CA,Colusa,,Colusa County,245809
+96573,10951,91978,Zip,CA,CA,Spring Valley,San Diego-Carlsbad,San Diego County,594647
+96021,11014,90040,Zip,CA,CA,Commerce,Los Angeles-Long Beach-Anaheim,Los Angeles County,495568
+97844,11019,94710,Zip,CA,CA,Berkeley,San Francisco-Oakland-Hayward,Alameda County,1110419
+98199,11026,95436,Zip,CA,CA,Forestville,Santa Rosa,Sonoma County,569881
+98207,11031,95446,Zip,CA,CA,Guerneville,Santa Rosa,Sonoma County,463740
+96275,11031,91020,Zip,CA,CA,La Crescenta-Montrose,Los Angeles-Long Beach-Anaheim,Los Angeles County,844984
+98616,11041,96094,Zip,CA,CA,Weed,,Siskiyou County,231263
+98521,11058,95971,Zip,CA,CA,Quincy,,Plumas County,257470
+97778,11099,94572,Zip,CA,CA,Rodeo,San Francisco-Oakland-Hayward,Contra Costa County,519633
+96834,11113,92359,Zip,CA,CA,Mentone,Riverside-San Bernardino-Ontario,San Bernardino County,367086
+98036,11123,95202,Zip,CA,CA,Stockton,Stockton-Lodi,San Joaquin County,288762
+97368,11141,93622,Zip,CA,CA,Firebaugh,Fresno,Fresno County,209137
+98111,11167,95327,Zip,CA,CA,Jamestown,Sonora,Tuolumne County,291026
+97390,11201,93647,Zip,CA,CA,Orosi,Visalia-Porterville,Tulare County,200991
+97212,11235,93286,Zip,CA,CA,Woodlake,Visalia-Porterville,Tulare County,210014
+97298,11250,93510,Zip,CA,CA,Acton,Los Angeles-Long Beach-Anaheim,Los Angeles County,647067
+97924,11253,95012,Zip,CA,CA,Castroville,Salinas,Monterey County,508654
+97174,11259,93240,Zip,CA,CA,Lake Isabella,Bakersfield,Kern County,153772
+98441,11264,95832,Zip,CA,CA,Sacramento,Sacramento--Roseville--Arden-Arcade,Sacramento County,307876
+96920,11264,92567,Zip,CA,CA,Nuevo,Riverside-San Bernardino-Ontario,Riverside County,385338
+97963,11281,95065,Zip,CA,CA,Santa Cruz,Santa Cruz-Watsonville,Santa Cruz County,961072
+97987,11309,95119,Zip,CA,CA,San Jose,San Jose-Sunnyvale-Santa Clara,Santa Clara County,997524
+97477,11403,93921,Zip,CA,CA,Carmel-by-the-Sea,Salinas,Monterey County,1810202
+96831,11435,92356,Zip,CA,CA,Lucerne Valley,Riverside-San Bernardino-Ontario,San Bernardino County,175442
+98108,11454,95324,Zip,CA,CA,Hilmar,Merced,Merced County,334230
+98357,11462,95666,Zip,CA,CA,Pioneer,,Amador County,282356
+97162,11522,93223,Zip,CA,CA,Farmersville,Visalia-Porterville,Tulare County,203520
+97930,11555,95019,Zip,CA,CA,Freedom,Santa Cruz-Watsonville,Santa Cruz County,571465
+98349,11611,95658,Zip,CA,CA,Newcastle,Sacramento--Roseville--Arden-Arcade,Placer County,701760
+96126,11640,90290,Zip,CA,CA,Topanga,Los Angeles-Long Beach-Anaheim,Los Angeles County,1306475
+97287,11649,93460,Zip,CA,CA,Santa Ynez,Santa Maria-Santa Barbara,Santa Barbara County,1038476
+97493,11658,93953,Zip,CA,CA,Del Monte Forest,Salinas,Monterey County,2270335
+98374,11658,95683,Zip,CA,CA,Sloughhouse,Sacramento--Roseville--Arden-Arcade,Sacramento County,574041
+98621,11730,96101,Zip,CA,CA,Alturas,,Modoc County,117357
+98326,11733,95631,Zip,CA,CA,Foresthill,Sacramento--Roseville--Arden-Arcade,Placer County,388546
+97389,11795,93646,Zip,CA,CA,Orange Cove,Fresno,Fresno County,194058
+96835,11829,92363,Zip,CA,CA,Needles,Riverside-San Bernardino-Ontario,San Bernardino County,90336
+98384,11833,95693,Zip,CA,CA,Wilton,Sacramento--Roseville--Arden-Arcade,Sacramento County,723999
+96973,11885,92655,Zip,CA,CA,Westminster,Los Angeles-Long Beach-Anaheim,Orange County,713874
+97371,11890,93625,Zip,CA,CA,Fowler,Fresno,Fresno County,293521
+96755,11911,92250,Zip,CA,CA,Holtville,El Centro,Imperial County,241390
+97482,11952,93926,Zip,CA,CA,Gonzales,Salinas,Monterey County,447022
+97917,11957,95005,Zip,CA,CA,Ben Lomond,Santa Cruz-Watsonville,Santa Cruz County,751743
+96823,11977,92342,Zip,CA,CA,Helendale,Riverside-San Bernardino-Ontario,San Bernardino County,251776
+97257,11995,93427,Zip,CA,CA,Buellton,Santa Maria-Santa Barbara,Santa Barbara County,662417
+98315,12012,95619,Zip,CA,CA,Diamond Springs,Sacramento--Roseville--Arden-Arcade,El Dorado County,357663
+98050,12080,95220,Zip,CA,CA,Acampo,Stockton-Lodi,San Joaquin County,584880
+97273,12124,93445,Zip,CA,CA,Oceano,San Luis Obispo-Paso Robles-Arroyo Grande,San Luis Obispo County,520523
+97098,12128,93022,Zip,CA,CA,Oak View,Oxnard-Thousand Oaks-Ventura,Ventura County,601560
+98660,12142,96145,Zip,CA,CA,Tahoe City,Sacramento--Roseville--Arden-Arcade,Placer County,905076
+97148,12152,93204,Zip,CA,CA,Avenal,Hanford-Corcoran,Kings County,162173
+98160,12159,95383,Zip,CA,CA,Twain Harte,Sonora,Tuolumne County,298310
+97519,12171,94028,Zip,CA,CA,Portola Valley,San Francisco-Oakland-Hayward,San Mateo County,3557047
+96979,12184,92661,Zip,CA,CA,Newport Beach,Los Angeles-Long Beach-Anaheim,Orange County,3236921
+98100,12196,95316,Zip,CA,CA,Denair,Modesto,Stanislaus County,408882
+98229,12260,95470,Zip,CA,CA,Redwood Valley,Ukiah,Mendocino County,476314
+97158,12351,93219,Zip,CA,CA,Earlimart,Visalia-Porterville,Tulare County,174249
+98610,12390,96088,Zip,CA,CA,Shingletown,Redding,Shasta County,263797
+98072,12447,95247,Zip,CA,CA,Murphys,,Calaveras County,384550
+98376,12486,95685,Zip,CA,CA,Sutter Creek,,Amador County,379599
+97518,12494,94027,Zip,CA,CA,Atherton,San Francisco-Oakland-Hayward,San Mateo County,6502687
+97566,12507,94111,Zip,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,1485602
+97950,12520,95046,Zip,CA,CA,San Martin,San Jose-Sunnyvale-Santa Clara,Santa Clara County,1117456
+97164,12523,93225,Zip,CA,CA,Frazier Park,Bakersfield,Kern County,226508
+96859,12527,92397,Zip,CA,CA,Wrightwood,Riverside-San Bernardino-Ontario,San Bernardino County,316725
+96907,12554,92548,Zip,CA,CA,Homeland,Riverside-San Bernardino-Ontario,Riverside County,312269
+98082,12568,95258,Zip,CA,CA,Woodbridge,Stockton-Lodi,San Joaquin County,467113
+96849,12593,92382,Zip,CA,CA,Running Springs,Riverside-San Bernardino-Ontario,San Bernardino County,240604
+98058,12599,95228,Zip,CA,CA,Copperopolis,,Calaveras County,421626
+96578,12631,92003,Zip,CA,CA,Bonsall,San Diego-Carlsbad,San Diego County,761641
+95991,12671,90010,Zip,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,1766255
+98226,12703,95467,Zip,CA,CA,Hidden Valley Lake,Clearlake,Lake County,310388
+96908,12703,92549,Zip,CA,CA,Idyllwild,Riverside-San Bernardino-Ontario,Riverside County,338150
+97294,12789,93501,Zip,CA,CA,Mojave,Bakersfield,Kern County,159481
+98356,12844,95665,Zip,CA,CA,Pine Grove,,Amador County,343619
+97263,12847,93434,Zip,CA,CA,Guadalupe,Santa Maria-Santa Barbara,Santa Barbara County,346318
+98393,12857,95709,Zip,CA,CA,Camino,Sacramento--Roseville--Arden-Arcade,El Dorado County,403880
+98053,12942,95223,Zip,CA,CA,Arnold,,Calaveras County,325752
+98318,12961,95623,Zip,CA,CA,El Dorado,Sacramento--Roseville--Arden-Arcade,El Dorado County,472191
+98105,12976,95321,Zip,CA,CA,Groveland,Sonora,Tuolumne County,272168
+98655,12981,96137,Zip,CA,CA,Westwood,,Plumas County,337846
+97195,13002,93265,Zip,CA,CA,Springville,Visalia-Porterville,Tulare County,352542
+97694,13027,94304,Zip,CA,CA,Palo Alto,San Jose-Sunnyvale-Santa Clara,Santa Clara County,3752258
+98401,13053,95722,Zip,CA,CA,Meadow Vista,Sacramento--Roseville--Arden-Arcade,Placer County,530808
+97169,13056,93234,Zip,CA,CA,Huron,Fresno,Fresno County,177122
+98065,13105,95236,Zip,CA,CA,Linden,Stockton-Lodi,San Joaquin County,549478
+98187,13117,95423,Zip,CA,CA,Clearlake Oaks,Clearlake,Lake County,199255
+98321,13124,95626,Zip,CA,CA,Elverta,Sacramento--Roseville--Arden-Arcade,Sacramento County,379922
+98007,13153,95139,Zip,CA,CA,San Jose,San Jose-Sunnyvale-Santa Clara,Santa Clara County,955198
+97500,13168,94005,Zip,CA,CA,Brisbane,San Francisco-Oakland-Hayward,San Mateo County,1123373
+97430,13228,93721,Zip,CA,CA,Fresno,Fresno,Fresno County,202085
+96579,13300,92004,Zip,CA,CA,Borrego Springs,San Diego-Carlsbad,San Diego County,235817
+96980,13338,92662,Zip,CA,CA,Newport Beach,Los Angeles-Long Beach-Anaheim,Orange County,2888481
+97260,13355,93430,Zip,CA,CA,Cayucos,San Luis Obispo-Paso Robles-Arroyo Grande,San Luis Obispo County,953388
+98592,13394,96064,Zip,CA,CA,Montague,,Siskiyou County,187546
+97037,13403,92823,Zip,CA,CA,Brea,Los Angeles-Long Beach-Anaheim,Orange County,914544
+96902,13425,92539,Zip,CA,CA,Anza,Riverside-San Bernardino-Ontario,Riverside County,305335
+98490,13451,95938,Zip,CA,CA,Durham,Chico,Butte County,524184
+98599,13457,96073,Zip,CA,CA,Palo Cedro,Redding,Shasta County,438306
+98615,13460,96093,Zip,CA,CA,Weaverville,,Trinity County,262265
+98641,13475,96122,Zip,CA,CA,Portola,,Plumas County,181784
+98052,13485,95222,Zip,CA,CA,Murphys,,Calaveras County,367439
+97344,13485,93591,Zip,CA,CA,Palmdale,Los Angeles-Long Beach-Anaheim,Los Angeles County,245256
+96754,13527,92249,Zip,CA,CA,Heber,El Centro,Imperial County,288641
+98383,13531,95692,Zip,CA,CA,Wheatland,Yuba City,Yuba County,342253
+98550,13545,96013,Zip,CA,CA,Burney,Redding,Shasta County,160183
+98536,13545,95987,Zip,CA,CA,Williams,,Colusa County,248846
+97398,13715,93656,Zip,CA,CA,Riverdale,Fresno,Fresno County,215475
+97889,13729,94951,Zip,CA,CA,Penngrove,Santa Rosa,Sonoma County,967023
+96842,13729,92372,Zip,CA,CA,Pinon Hills,Riverside-San Bernardino-Ontario,San Bernardino County,314679
+98074,13766,95249,Zip,CA,CA,San Andreas,,Calaveras County,269809
+97197,13776,93267,Zip,CA,CA,Strathmore,Visalia-Porterville,Tulare County,200626
+97059,13781,92861,Zip,CA,CA,Villa Park,Los Angeles-Long Beach-Anaheim,Orange County,1359856
+96801,13890,92317,Zip,CA,CA,Lake Arrowhead,Riverside-San Bernardino-Ontario,San Bernardino County,274250
+96048,13909,90067,Zip,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,1457446
+98216,13919,95457,Zip,CA,CA,Lower Lake,Clearlake,Lake County,274504
+98156,13930,95379,Zip,CA,CA,Tuolumne,Sonora,Tuolumne County,240133
+97199,13935,93270,Zip,CA,CA,Terra Bella,Visalia-Porterville,Tulare County,214399
+96761,13976,92256,Zip,CA,CA,Morongo Valley,Riverside-San Bernardino-Ontario,San Bernardino County,210659
+97393,14014,93650,Zip,CA,CA,Fresno,Fresno,Fresno County,197997
+98363,14052,95672,Zip,CA,CA,Rescue,Sacramento--Roseville--Arden-Arcade,El Dorado County,597708
+96601,14058,92036,Zip,CA,CA,Julian,San Diego-Carlsbad,San Diego County,404143
+418162,14107,93737,Zip,CA,CA,Fresno,Fresno,Fresno County,371165
+98556,14139,96020,Zip,CA,CA,Chester,,Plumas County,263311
+97356,14152,93609,Zip,CA,CA,Caruthers,Fresno,Fresno County,218567
+98467,14191,95912,Zip,CA,CA,Arbuckle,,Colusa County,302991
+97509,14219,94018,Zip,CA,CA,Half Moon Bay,San Francisco-Oakland-Hayward,San Mateo County,1254740
+97802,14235,94599,Zip,CA,CA,Yountville,Napa,Napa County,1080906
+98659,14275,96143,Zip,CA,CA,Kings Beach,Sacramento--Roseville--Arden-Arcade,Placer County,641068
+96663,14292,92121,Zip,CA,CA,San Diego,San Diego-Carlsbad,San Diego County,1078655
+98206,14292,95445,Zip,CA,CA,Gualala,Ukiah,Mendocino County,487864
+96932,14314,92590,Zip,CA,CA,Temecula,Riverside-San Bernardino-Ontario,Riverside County,1060916
+98310,14327,95614,Zip,CA,CA,Cool,Sacramento--Roseville--Arden-Arcade,El Dorado County,425803
+98584,14332,96055,Zip,CA,CA,Los Molinos,Red Bluff,Tehama County,222007
+97190,14356,93258,Zip,CA,CA,Tulare,Visalia-Porterville,Tulare County,180827
+98219,14361,95460,Zip,CA,CA,Mendocino,Ukiah,Mendocino County,778279
+97949,14440,95045,Zip,CA,CA,San Juan Bautista,San Jose-Sunnyvale-Santa Clara,San Benito County,631159
+96829,14455,92352,Zip,CA,CA,Lake Arrowhead,Riverside-San Bernardino-Ontario,San Bernardino County,454062
+98203,14464,95442,Zip,CA,CA,Glen Ellen,Santa Rosa,Sonoma County,1051833
+97733,14573,94525,Zip,CA,CA,Crockett,San Francisco-Oakland-Hayward,Contra Costa County,511261
+98066,14612,95237,Zip,CA,CA,Lockeford,Stockton-Lodi,San Joaquin County,412718
+98220,14626,95461,Zip,CA,CA,Middletown,Clearlake,Lake County,251943
+97279,14648,93451,Zip,CA,CA,San Miguel,San Luis Obispo-Paso Robles-Arroyo Grande,San Luis Obispo County,435945
+97386,14678,93643,Zip,CA,CA,North Fork,Madera,Madera County,304913
+97188,14692,93256,Zip,CA,CA,Pixley,Visalia-Porterville,Tulare County,164362
+97362,14796,93615,Zip,CA,CA,Cutler,Visalia-Porterville,Tulare County,180659
+98375,14821,95684,Zip,CA,CA,Somerset,Sacramento--Roseville--Arden-Arcade,El Dorado County,369571
+96901,14825,92536,Zip,CA,CA,Aguanga,Riverside-San Bernardino-Ontario,Riverside County,392735
+98329,14859,95634,Zip,CA,CA,Georgetown,Sacramento--Roseville--Arden-Arcade,El Dorado County,351557
+98143,14898,95365,Zip,CA,CA,Planada,Merced,Merced County,207898
+98217,14940,95458,Zip,CA,CA,Lucerne,Clearlake,Lake County,207002
+97742,14949,94535,Zip,CA,CA,Fairfield,Vallejo-Fairfield,Solano County,503708
+97349,14951,93602,Zip,CA,CA,Auberry,Fresno,Fresno County,298041
+98347,14964,95655,Zip,CA,CA,Mather,Sacramento--Roseville--Arden-Arcade,Sacramento County,442400
+97916,15071,95004,Zip,CA,CA,Aromas,Salinas,Monterey County,732830
+97411,15091,93675,Zip,CA,CA,Squaw Valley,Fresno,Fresno County,266143
+98519,15133,95969,Zip,CA,CA,Paradise,Chico,Butte County,282024
+96207,15254,90704,Zip,CA,CA,Avalon,Los Angeles-Long Beach-Anaheim,Los Angeles County,791681
+97211,15293,93285,Zip,CA,CA,Wofford Heights,Bakersfield,Kern County,167537
+98283,15296,95562,Zip,CA,CA,Rio Dell,Eureka-Arcata-Fortuna,Humboldt County,251141
+97981,15348,95113,Zip,CA,CA,San Jose,San Jose-Sunnyvale-Santa Clara,Santa Clara County,921321
+98290,15348,95570,Zip,CA,CA,Trinidad,Eureka-Arcata-Fortuna,Humboldt County,538912
+96542,15387,91906,Zip,CA,CA,Campo,San Diego-Carlsbad,San Diego County,337457
+97583,15395,94129,Zip,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2487027
+97308,15398,93523,Zip,CA,CA,Edwards,Bakersfield,Kern County,118658
+98322,15467,95627,Zip,CA,CA,Esparto,Sacramento--Roseville--Arden-Arcade,Yolo County,366183
+97281,15487,93453,Zip,CA,CA,Simmler,San Luis Obispo-Paso Robles-Arroyo Grande,San Luis Obispo County,558377
+96575,15489,91980,Zip,CA,CA,Tecate,San Diego-Carlsbad,San Diego County,373324
+98094,15494,95310,Zip,CA,CA,Columbia,Sonora,Tuolumne County,308467
+98061,15500,95231,Zip,CA,CA,French Camp,Stockton-Lodi,San Joaquin County,365112
+97200,15554,93271,Zip,CA,CA,Three Rivers,Visalia-Porterville,Tulare County,367167
+97170,15610,93235,Zip,CA,CA,Ivanhoe,Visalia-Porterville,Tulare County,183148
+98633,15690,96114,Zip,CA,CA,Janesville,Susanville,Lassen County,252389
+98262,15699,95536,Zip,CA,CA,Ferndale,Eureka-Arcata-Fortuna,Humboldt County,426315
+97146,15727,93202,Zip,CA,CA,Armona,Hanford-Corcoran,Kings County,198785
+98266,15792,95542,Zip,CA,CA,Garberville,Eureka-Arcata-Fortuna,Humboldt County,415256
+97716,15814,94508,Zip,CA,CA,Angwin,Napa,Napa County,867547
+96785,15814,92285,Zip,CA,CA,Landers,Riverside-San Bernardino-Ontario,San Bernardino County,159897
+98328,15897,95633,Zip,CA,CA,Garden Valley,Sacramento--Roseville--Arden-Arcade,El Dorado County,375751
+97119,15935,93066,Zip,CA,CA,Somis,Oxnard-Thousand Oaks-Ventura,Ventura County,1113490
+98282,15950,95560,Zip,CA,CA,Redway,Eureka-Arcata-Fortuna,Humboldt County,292512
+98237,15992,95485,Zip,CA,CA,Upper Lake,Clearlake,Lake County,299660
+98112,16051,95328,Zip,CA,CA,Keyes,Modesto,Stanislaus County,307174
+98471,16062,95916,Zip,CA,CA,Berry Creek,Chico,Butte County,212997
+98673,16073,96162,Zip,CA,CA,Truckee,Truckee-Grass Valley,Nevada County,637804
+98360,16196,95669,Zip,CA,CA,Plymouth,,Amador County,426959
+96002,16223,90021,Zip,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,686589
+98354,16249,95663,Zip,CA,CA,Penryn,Sacramento--Roseville--Arden-Arcade,Placer County,676714
+98149,16367,95372,Zip,CA,CA,Soulsbyville,Sonora,Tuolumne County,290818
+96852,16385,92386,Zip,CA,CA,Big Bear City,Riverside-San Bernardino-Ontario,San Bernardino County,202645
+98472,16390,95917,Zip,CA,CA,Biggs,Chico,Butte County,259873
+98223,16407,95464,Zip,CA,CA,Nice,Clearlake,Lake County,201655
+98569,16429,96035,Zip,CA,CA,Gerber,Red Bluff,Tehama County,190403
+96742,16434,92233,Zip,CA,CA,Calipatria,El Centro,Imperial County,159284
+98224,16434,95465,Zip,CA,CA,Occidental,Santa Rosa,Sonoma County,996609
+98113,16460,95329,Zip,CA,CA,La Grange,,Mariposa County,279412
+98214,16460,95454,Zip,CA,CA,Laytonville,Ukiah,Mendocino County,321414
+97525,16483,94038,Zip,CA,CA,Moss Beach,San Francisco-Oakland-Hayward,San Mateo County,1216788
+97524,16515,94037,Zip,CA,CA,Montara,San Francisco-Oakland-Hayward,San Mateo County,1217283
+98574,16566,96041,Zip,CA,CA,Hayfork,,Trinity County,246077
+97400,16590,93660,Zip,CA,CA,San Joaquin,Fresno,Fresno County,189300
+96617,16685,92061,Zip,CA,CA,Pauma Valley,San Diego-Carlsbad,San Diego County,592985
+97719,16696,94511,Zip,CA,CA,Bethel Island,San Francisco-Oakland-Hayward,Contra Costa County,452756
+97311,16726,93527,Zip,CA,CA,Inyokern,Bakersfield,Kern County,197674
+98561,16773,96025,Zip,CA,CA,Dunsmuir,,Siskiyou County,181654
+97176,16821,93242,Zip,CA,CA,Laton,Fresno,Fresno County,212675
+98192,16826,95428,Zip,CA,CA,Covelo,Ukiah,Mendocino County,278445
+98622,16830,96103,Zip,CA,CA,Graeagle,,Plumas County,296498
+97316,17012,93532,Zip,CA,CA,Lake Hughes,Los Angeles-Long Beach-Anaheim,Los Angeles County,313313
+97149,17034,93205,Zip,CA,CA,Bodfish,Bakersfield,Kern County,126938
+98254,17103,95524,Zip,CA,CA,Bayside,Eureka-Arcata-Fortuna,Humboldt County,524324
+97161,17108,93222,Zip,CA,CA,Pine Mountain Club,Bakersfield,Kern County,278624
+98381,17126,95690,Zip,CA,CA,Walnut Grove,Sacramento--Roseville--Arden-Arcade,Sacramento County,414592
+97201,17242,93272,Zip,CA,CA,Tipton,Visalia-Porterville,Tulare County,171101
+98103,17249,95319,Zip,CA,CA,Modesto,Modesto,Stanislaus County,270412
+98095,17257,95311,Zip,CA,CA,Coulterville,,Mariposa County,235036
+98287,17333,95567,Zip,CA,CA,Smith River,Crescent City,Del Norte County,315141
+98566,17387,96032,Zip,CA,CA,Fort Jones,,Siskiyou County,221556
+97210,17450,93283,Zip,CA,CA,Weldon,Bakersfield,Kern County,139605
+98473,17478,95918,Zip,CA,CA,Browns Valley,Yuba City,Yuba County,450162
+98202,17478,95441,Zip,CA,CA,Geyserville,Santa Rosa,Sonoma County,877787
+98336,17541,95641,Zip,CA,CA,Isleton,Sacramento--Roseville--Arden-Arcade,Sacramento County,361435
+97895,17569,94957,Zip,CA,CA,Ross,San Francisco-Oakland-Hayward,Marin County,3278613
+98080,17740,95255,Zip,CA,CA,West Point,,Calaveras County,255656
+98499,17748,95947,Zip,CA,CA,Greenville,,Plumas County,186187
+97172,17766,93238,Zip,CA,CA,Kernville,Bakersfield,Kern County,217238
+96039,17791,90058,Zip,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,444667
+98228,17852,95469,Zip,CA,CA,Potter Valley,Ukiah,Mendocino County,326535
+98562,17885,96027,Zip,CA,CA,Etna,,Siskiyou County,211721
+98071,17902,95246,Zip,CA,CA,Mountain Ranch,,Calaveras County,321962
+96739,17960,92230,Zip,CA,CA,Cabazon,Riverside-San Bernardino-Ontario,Riverside County,224301
+97867,18029,94923,Zip,CA,CA,Bodega Bay,Santa Rosa,Sonoma County,981127
+98292,18035,95573,Zip,CA,CA,Willow Creek,Eureka-Arcata-Fortuna,Humboldt County,265559
+97256,18039,93426,Zip,CA,CA,Bradley,San Luis Obispo-Paso Robles-Arroyo Grande,San Luis Obispo County,488196
+97372,18051,93626,Zip,CA,CA,Friant,Fresno,Fresno County,464042
+98518,18145,95968,Zip,CA,CA,Palermo,Chico,Butte County,222703
+97406,18169,93667,Zip,CA,CA,Tollhouse,Fresno,Fresno County,336370
+96837,18187,92365,Zip,CA,CA,Newberry Springs,Riverside-San Bernardino-Ontario,San Bernardino County,111619
+97348,18210,93601,Zip,CA,CA,Ahwahnee,Madera,Madera County,353583
+98255,18237,95525,Zip,CA,CA,Blue Lake,Eureka-Arcata-Fortuna,Humboldt County,355675
+98180,18253,95416,Zip,CA,CA,Sonoma,Santa Rosa,Sonoma County,570787
+98511,18253,95960,Zip,CA,CA,North San Juan,Truckee-Grass Valley,Nevada County,345218
+98115,18286,95333,Zip,CA,CA,Le Grand,Merced,Merced County,221318
+98212,18291,95452,Zip,CA,CA,Kenwood,Santa Rosa,Sonoma County,1029481
+97303,18310,93516,Zip,CA,CA,Boron,Bakersfield,Kern County,93982
+97325,18362,93545,Zip,CA,CA,Lone Pine,,Inyo County,238052
+98070,18436,95245,Zip,CA,CA,Mokelumne Hill,,Calaveras County,285962
+96569,18454,91962,Zip,CA,CA,Descanso,San Diego-Carlsbad,San Diego County,456314
+98661,18473,96146,Zip,CA,CA,Tahoe City,Sacramento--Roseville--Arden-Arcade,Placer County,914365
+98333,18559,95638,Zip,CA,CA,Herald,Sacramento--Roseville--Arden-Arcade,Sacramento County,649829
+98525,18585,95975,Zip,CA,CA,Rough and Ready,Truckee-Grass Valley,Nevada County,445707
+96749,18615,92242,Zip,CA,CA,Earp,Riverside-San Bernardino-Ontario,San Bernardino County,96856
+96551,18660,91916,Zip,CA,CA,Descanso,San Diego-Carlsbad,San Diego County,451970
+96854,18694,92391,Zip,CA,CA,Lake Arrowhead,Riverside-San Bernardino-Ontario,San Bernardino County,256821
+98190,18732,95426,Zip,CA,CA,Middletown,Clearlake,Lake County,256123
+97331,18744,93553,Zip,CA,CA,Pearblossom,Los Angeles-Long Beach-Anaheim,Los Angeles County,296932
+98392,18807,95703,Zip,CA,CA,Applegate,Sacramento--Roseville--Arden-Arcade,Placer County,453550
+96916,18905,92561,Zip,CA,CA,Mountain Center,Riverside-San Bernardino-Ontario,Riverside County,429967
+97255,18905,93424,Zip,CA,CA,Avila Beach,San Luis Obispo-Paso Robles-Arroyo Grande,San Luis Obispo County,1088823
+97300,18949,93513,Zip,CA,CA,Big Pine,,Inyo County,280130
+98546,18959,96008,Zip,CA,CA,Bella Vista,Redding,Shasta County,355888
+97894,19016,94956,Zip,CA,CA,Point Reyes Station,San Francisco-Oakland-Hayward,Marin County,1249753
+98652,19038,96134,Zip,CA,CA,Tulelake,,Modoc County,95785
+97120,19051,93067,Zip,CA,CA,Summerland,Santa Maria-Santa Barbara,Santa Barbara County,1579658
+98585,19095,96056,Zip,CA,CA,McArthur,Susanville,Lassen County,206003
+97394,19095,93651,Zip,CA,CA,Prather,Fresno,Fresno County,406326
+98165,19112,95389,Zip,CA,CA,El Portal,,Mariposa County,757942
+98503,19149,95951,Zip,CA,CA,Hamilton City,,Glenn County,206972
+97363,19172,93616,Zip,CA,CA,Del Rey,Fresno,Fresno County,227858
+96639,19178,92091,Zip,CA,CA,Rancho Santa Fe,San Diego-Carlsbad,San Diego County,2382623
+98205,19243,95444,Zip,CA,CA,Graton,Santa Rosa,Sonoma County,624387
+98494,19271,95942,Zip,CA,CA,Forest Ranch,Chico,Butte County,341990
+97914,19283,95002,Zip,CA,CA,San Jose,San Jose-Sunnyvale-Santa Clara,Santa Clara County,1081247
+98295,19283,95589,Zip,CA,CA,Whitethorn,Eureka-Arcata-Fortuna,Humboldt County,321715
+98581,19359,96051,Zip,CA,CA,Lakehead,Redding,Shasta County,253579
+98221,19374,95462,Zip,CA,CA,Monte Rio,Santa Rosa,Sonoma County,483100
+98586,19482,96057,Zip,CA,CA,McCloud,,Siskiyou County,215493
+97511,19502,94020,Zip,CA,CA,La Honda,San Francisco-Oakland-Hayward,San Mateo County,880366
+96986,19546,92676,Zip,CA,CA,Silverado,Los Angeles-Long Beach-Anaheim,Orange County,763047
+97944,19556,95039,Zip,CA,CA,Moss Landing,Salinas,Monterey County,642794
+98185,19590,95421,Zip,CA,CA,Cazadero,Santa Rosa,Sonoma County,529536
+96636,19609,92086,Zip,CA,CA,Warner Springs,San Diego-Carlsbad,San Diego County,339934
+98656,19609,96140,Zip,CA,CA,Carnelian Bay,Sacramento--Roseville--Arden-Arcade,Placer County,713813
+98527,19621,95977,Zip,CA,CA,Smartsville,Truckee-Grass Valley,Nevada County,361824
+96541,19675,91905,Zip,CA,CA,Boulevard,San Diego-Carlsbad,San Diego County,283762
+97182,19702,93249,Zip,CA,CA,Lost Hills,Bakersfield,Kern County,201366
+97476,19818,93920,Zip,CA,CA,Big Sur,Salinas,Monterey County,1372654
+96226,19837,90742,Zip,CA,CA,Huntington Beach,Los Angeles-Long Beach-Anaheim,Orange County,2090832
+98380,19859,95689,Zip,CA,CA,Volcano,,Amador County,324878
+98513,19916,95962,Zip,CA,CA,Oregon House,Yuba City,Yuba County,360081
+98563,19997,96028,Zip,CA,CA,Fall River Mills,Redding,Shasta County,217881
+98274,20107,95551,Zip,CA,CA,Loleta,Eureka-Arcata-Fortuna,Humboldt County,347897
+97268,20127,93440,Zip,CA,CA,Los Alamos,Santa Maria-Santa Barbara,Santa Barbara County,588792
+98227,20170,95468,Zip,CA,CA,Point Arena,Ukiah,Mendocino County,1068473
+98209,20216,95449,Zip,CA,CA,Hopland,Ukiah,Mendocino County,462574
+97150,20343,93206,Zip,CA,CA,Buttonwillow,Bakersfield,Kern County,164970
+97904,20343,94973,Zip,CA,CA,Woodacre,San Francisco-Oakland-Hayward,Marin County,873300
+98127,20343,95346,Zip,CA,CA,Mi Wuk Village,Sonora,Tuolumne County,244860
+96862,20439,92401,Zip,CA,CA,San Bernardino,Riverside-San Bernardino-Ontario,San Bernardino County,262560
+97192,20490,93261,Zip,CA,CA,Richgrove,Visalia-Porterville,Tulare County,174432
+97261,20541,93432,Zip,CA,CA,Creston,San Luis Obispo-Paso Robles-Arroyo Grande,San Luis Obispo County,796308
+96804,20640,92321,Zip,CA,CA,Lake Arrowhead,Riverside-San Bernardino-Ontario,San Bernardino County,275226
+96624,20681,92070,Zip,CA,CA,Santa Ysabel,San Diego-Carlsbad,San Diego County,481237
+97305,20681,93518,Zip,CA,CA,Caliente,Bakersfield,Kern County,215159
+97877,20768,94937,Zip,CA,CA,Inverness,San Francisco-Oakland-Hayward,Marin County,1271584
+98637,20768,96118,Zip,CA,CA,Loyalton,,Sierra County,183163
+96860,20768,92398,Zip,CA,CA,Yermo,Riverside-San Bernardino-Ontario,San Bernardino County,102633
+98582,20872,96052,Zip,CA,CA,Lewiston,,Trinity County,296001
+98355,21012,95664,Zip,CA,CA,Pilot Hill,Sacramento--Roseville--Arden-Arcade,El Dorado County,512635
+97108,21046,93040,Zip,CA,CA,Fillmore,Oxnard-Thousand Oaks-Ventura,Ventura County,441069
+98179,21046,95415,Zip,CA,CA,Boonville,Ukiah,Mendocino County,487272
+98339,21057,95645,Zip,CA,CA,Woodland,Sacramento--Roseville--Arden-Arcade,Yolo County,329603
+98474,21387,95919,Zip,CA,CA,Brownsville,Yuba City,Yuba County,286880
+97185,21398,93252,Zip,CA,CA,Maricopa,Oxnard-Thousand Oaks-Ventura,Ventura County,99728
+97177,21398,93243,Zip,CA,CA,Lebec,Bakersfield,Kern County,279224
+98575,21410,96044,Zip,CA,CA,Hornbrook,,Siskiyou County,162478
+98406,21423,95736,Zip,CA,CA,Colfax,Sacramento--Roseville--Arden-Arcade,Placer County,640910
+98151,21447,95374,Zip,CA,CA,Stevinson,Merced,Merced County,455306
+97351,21453,93604,Zip,CA,CA,Bass Lake,Madera,Madera County,606435
+98270,21473,95547,Zip,CA,CA,Hydesville,Eureka-Arcata-Fortuna,Humboldt County,446580
+97269,21540,93441,Zip,CA,CA,Los Olivos,Santa Maria-Santa Barbara,Santa Barbara County,931381
+97534,21546,94060,Zip,CA,CA,Pescadero,San Francisco-Oakland-Hayward,San Mateo County,1037673
+98308,21662,95612,Zip,CA,CA,Clarksburg,Sacramento--Roseville--Arden-Arcade,Yolo County,874349
+97481,21734,93925,Zip,CA,CA,Chualar,Salinas,Monterey County,481030
+96774,21743,92273,Zip,CA,CA,El Centro,El Centro,Imperial County,146281
+98097,21802,95313,Zip,CA,CA,Crows Landing,Modesto,Stanislaus County,622432
+98658,21820,96142,Zip,CA,CA,Tahoma,Sacramento--Roseville--Arden-Arcade,El Dorado County,634265
+98572,21885,96039,Zip,CA,CA,Happy Camp,,Siskiyou County,141206
+98626,21935,96107,Zip,CA,CA,Coleville,,Mono County,242559
+97324,21935,93544,Zip,CA,CA,Llano,Los Angeles-Long Beach-Anaheim,Los Angeles County,286960
+98559,21965,96023,Zip,CA,CA,Dorris,,Siskiyou County,92801
+98225,22038,95466,Zip,CA,CA,Philo,Ukiah,Mendocino County,525859
+98372,22263,95681,Zip,CA,CA,Sheridan,Sacramento--Roseville--Arden-Arcade,Placer County,443216
+98330,22314,95635,Zip,CA,CA,Greenwood,Sacramento--Roseville--Arden-Arcade,El Dorado County,394292
+97791,22323,94586,Zip,CA,CA,Sunol,San Francisco-Oakland-Hayward,Alameda County,1157700
+96570,22373,91963,Zip,CA,CA,Potrero,San Diego-Carlsbad,San Diego County,369944
+96820,22373,92339,Zip,CA,CA,Forest Falls,Riverside-San Bernardino-Ontario,San Bernardino County,248238
+98506,22389,95955,Zip,CA,CA,Maxwell,,Colusa County,174089
+98215,22425,95456,Zip,CA,CA,Mendocino,Ukiah,Mendocino County,569437
+98657,22454,96141,Zip,CA,CA,Homewood,Sacramento--Roseville--Arden-Arcade,Placer County,847935
+98235,22454,95481,Zip,CA,CA,Ukiah,Ukiah,Mendocino County,383988
+98271,22483,95548,Zip,CA,CA,Klamath,Crescent City,Del Norte County,131707
+97353,22483,93606,Zip,CA,CA,Fresno,Fresno,Fresno County,213929
+98177,22529,95410,Zip,CA,CA,Albion,Ukiah,Mendocino County,634814
+97396,22605,93653,Zip,CA,CA,Raymond,Madera,Madera County,330157
+98324,22615,95629,Zip,CA,CA,Volcano,,Amador County,372681
+97736,22615,94528,Zip,CA,CA,Diablo,San Francisco-Oakland-Hayward,Contra Costa County,2392763
+98590,22766,96062,Zip,CA,CA,Millville,Redding,Shasta County,404315
+98469,22796,95914,Zip,CA,CA,Bangor,Chico,Butte County,310122
+98613,22796,96091,Zip,CA,CA,Trinity Center,,Trinity County,278613
+97876,22796,94933,Zip,CA,CA,Lagunitas,San Francisco-Oakland-Hayward,Marin County,821173
+97962,22858,95064,Zip,CA,CA,Santa Cruz,Santa Cruz-Watsonville,Santa Cruz County,871037
+98596,22858,96069,Zip,CA,CA,Oak Run,Redding,Shasta County,319750
+98331,22946,95636,Zip,CA,CA,Somerset,Sacramento--Roseville--Arden-Arcade,El Dorado County,266743
+96814,22968,92333,Zip,CA,CA,Fawnskin,Riverside-San Bernardino-Ontario,San Bernardino County,329691
+98107,22998,95323,Zip,CA,CA,Hickman,Modesto,Stanislaus County,493678
+98197,22998,95433,Zip,CA,CA,Sonoma,Santa Rosa,Sonoma County,647833
+98276,23011,95553,Zip,CA,CA,Myers Flat,Eureka-Arcata-Fortuna,Humboldt County,375750
+98258,23037,95528,Zip,CA,CA,Carlotta,Eureka-Arcata-Fortuna,Humboldt County,350215
+97288,23037,93461,Zip,CA,CA,Shandon,San Luis Obispo-Paso Robles-Arroyo Grande,San Luis Obispo County,341897
+98609,23065,96087,Zip,CA,CA,Redding,Redding,Shasta County,286580
+98057,23128,95227,Zip,CA,CA,Lockeford,Stockton-Lodi,San Joaquin County,733103
+98560,23128,96024,Zip,CA,CA,Douglas City,,Trinity County,324048
+98391,23188,95701,Zip,CA,CA,Alta,Sacramento--Roseville--Arden-Arcade,Placer County,331076
+97928,23204,95017,Zip,CA,CA,Davenport,Santa Cruz-Watsonville,Santa Cruz County,772067
+98628,23382,96109,Zip,CA,CA,Doyle,Susanville,Lassen County,136423
+98091,23382,95306,Zip,CA,CA,Catheys Valley,,Mariposa County,364589
+96782,23419,92282,Zip,CA,CA,White Water,Riverside-San Bernardino-Ontario,Riverside County,245302
+97403,23447,93664,Zip,CA,CA,Shaver Lake,Fresno,Fresno County,442790
+97196,23454,93266,Zip,CA,CA,Stratford,Hanford-Corcoran,Kings County,172546
+96776,23454,92275,Zip,CA,CA,Thermal,El Centro,Imperial County,170703
+97722,23475,94514,Zip,CA,CA,Byron,San Francisco-Oakland-Hayward,Contra Costa County,706361
+98055,23485,95225,Zip,CA,CA,Valley Springs,,Calaveras County,355967
+98201,23596,95439,Zip,CA,CA,Fulton,Santa Rosa,Sonoma County,829609
+98577,23596,96047,Zip,CA,CA,Igo,Redding,Shasta County,259459
+97901,23635,94970,Zip,CA,CA,Stinson Beach,San Francisco-Oakland-Hayward,Marin County,3098422
+98632,23707,96113,Zip,CA,CA,Doyle,Susanville,Lassen County,78596
+399675,23737,91008,Zip,CA,CA,Bradbury,Los Angeles-Long Beach-Anaheim,Los Angeles County,1337190
+98163,23866,95387,Zip,CA,CA,Patterson,Modesto,Stanislaus County,536236
+96833,23876,92358,Zip,CA,CA,Lytle Creek,Riverside-San Bernardino-Ontario,San Bernardino County,309985
+97313,23876,93529,Zip,CA,CA,June Lake,,Mono County,500857
+97173,23920,93239,Zip,CA,CA,Kettleman City,Hanford-Corcoran,Kings County,157168
+98147,23954,95369,Zip,CA,CA,Snelling,Merced,Merced County,281120
+96772,23965,92268,Zip,CA,CA,Yucca Valley,Riverside-San Bernardino-Ontario,San Bernardino County,286168
+96839,23974,92368,Zip,CA,CA,Helendale,Riverside-San Bernardino-Ontario,San Bernardino County,155379
+98571,23992,96038,Zip,CA,CA,Grenada,,Siskiyou County,178970
+98267,24018,95543,Zip,CA,CA,Gasquet,Crescent City,Del Norte County,341637
+98343,24035,95651,Zip,CA,CA,Lotus,Sacramento--Roseville--Arden-Arcade,El Dorado County,463994
+98126,24035,95345,Zip,CA,CA,Midpines,,Mariposa County,271426
+98377,24035,95686,Zip,CA,CA,Thornton,Stockton-Lodi,San Joaquin County,419668
+97755,24056,94548,Zip,CA,CA,Oakley,San Francisco-Oakland-Hayward,Contra Costa County,762439
+98623,24090,96104,Zip,CA,CA,Cedarville,,Modoc County,145773
+96615,24090,92059,Zip,CA,CA,Pala,San Diego-Carlsbad,San Diego County,696361
+97919,24363,95007,Zip,CA,CA,Boulder Creek,Santa Cruz-Watsonville,Santa Cruz County,670645
+98487,24402,95935,Zip,CA,CA,Dobbins,Yuba City,Yuba County,306871
+97304,24402,93517,Zip,CA,CA,Bridgeport,,Mono County,320545
+97310,24441,93526,Zip,CA,CA,Independence,,Inyo County,208843
+98489,24455,95937,Zip,CA,CA,Arbuckle,,Colusa County,367084
+98311,24495,95615,Zip,CA,CA,Courtland,Sacramento--Roseville--Arden-Arcade,Sacramento County,443495
+98662,24523,96148,Zip,CA,CA,Tahoe Vista,Sacramento--Roseville--Arden-Arcade,Placer County,683664
+98404,24541,95728,Zip,CA,CA,Soda Springs,Sacramento--Roseville--Arden-Arcade,Placer County,502462
+97497,24588,93962,Zip,CA,CA,Salinas,Salinas,Monterey County,634702
+98646,24682,96127,Zip,CA,CA,Janesville,Susanville,Lassen County,228683
+98286,24682,95565,Zip,CA,CA,Scotia,Eureka-Arcata-Fortuna,Humboldt County,249140
+98284,24699,95563,Zip,CA,CA,Salyer,,Trinity County,342390
+97407,24750,93668,Zip,CA,CA,Tranquillity,Fresno,Fresno County,206560
+97878,24770,94938,Zip,CA,CA,Lagunitas,San Francisco-Oakland-Hayward,Marin County,920071
+98078,24784,95253,Zip,CA,CA,Lodi,Stockton-Lodi,San Joaquin County,258248
+98245,24784,95497,Zip,CA,CA,The Sea Ranch,Santa Rosa,Sonoma County,913526
+97166,24798,93227,Zip,CA,CA,Visalia,Visalia-Porterville,Tulare County,182100
+98348,24798,95656,Zip,CA,CA,Plymouth,,Amador County,356128
+98618,24830,96096,Zip,CA,CA,Whitmore,Redding,Shasta County,315607
+98079,24830,95254,Zip,CA,CA,Valley Springs,,Calaveras County,420008
+97797,24849,94592,Zip,CA,CA,Vallejo,Vallejo-Fairfield,Solano County,636832
+96552,24849,91917,Zip,CA,CA,Dulzura,San Diego-Carlsbad,San Diego County,495719
+98088,24870,95303,Zip,CA,CA,Ballico,Merced,Merced County,410749
+98639,24888,96120,Zip,CA,CA,Kirkwood,,Alpine County,411960
+97405,24967,93666,Zip,CA,CA,Dinuba,Visalia-Porterville,Tulare County,168340
+97947,24989,95043,Zip,CA,CA,Paicines,San Jose-Sunnyvale-Santa Clara,San Benito County,590017
+97410,24989,93673,Zip,CA,CA,Kingsburg,Fresno,Fresno County,173894
+98587,25025,96058,Zip,CA,CA,Macdoel,,Siskiyou County,77102
+98495,25071,95943,Zip,CA,CA,Glenn,,Glenn County,476990
+98076,25120,95251,Zip,CA,CA,Vallecito,,Calaveras County,238764
+98272,25155,95549,Zip,CA,CA,Kneeland,Eureka-Arcata-Fortuna,Humboldt County,536827
+96329,25315,91210,Zip,CA,CA,Glendale,Los Angeles-Long Beach-Anaheim,Los Angeles County,1032464
+96851,25315,92385,Zip,CA,CA,Lake Arrowhead,Riverside-San Bernardino-Ontario,San Bernardino County,382868
+98060,25332,95230,Zip,CA,CA,Farmington,Stockton-Lodi,San Joaquin County,591532
+96557,25421,91934,Zip,CA,CA,Jacumba,San Diego-Carlsbad,San Diego County,224317
+97145,25441,93201,Zip,CA,CA,Alpaugh,Visalia-Porterville,Tulare County,159589
+96827,25500,92347,Zip,CA,CA,Hinkley,Riverside-San Bernardino-Ontario,San Bernardino County,86860
+98529,25524,95979,Zip,CA,CA,Stonyford,,Colusa County,158205
+96763,25540,92258,Zip,CA,CA,Desert Hot Springs,Riverside-San Bernardino-Ontario,Riverside County,182418
+98588,25540,96059,Zip,CA,CA,Manton,Red Bluff,Tehama County,261703
+97969,25555,95075,Zip,CA,CA,Hollister,San Jose-Sunnyvale-Santa Clara,San Benito County,1007121
+97355,25555,93608,Zip,CA,CA,Cantua Creek,Fresno,Fresno County,151400
+98625,25574,96106,Zip,CA,CA,Clio,,Plumas County,505984
+96848,25611,92378,Zip,CA,CA,Lake Arrowhead,Riverside-San Bernardino-Ontario,San Bernardino County,230860
+97773,25655,94567,Zip,CA,CA,Pope Valley,Napa,Napa County,348733
+98101,25688,95317,Zip,CA,CA,El Nido,Merced,Merced County,389083
+97945,25722,95041,Zip,CA,CA,Felton,Santa Cruz-Watsonville,Santa Cruz County,716052
+97486,25722,93932,Zip,CA,CA,Lockwood,Salinas,Monterey County,650533
+96790,25793,92305,Zip,CA,CA,Angelus Oaks,Riverside-San Bernardino-Ontario,San Bernardino County,259857
+97315,25816,93531,Zip,CA,CA,Keene,Bakersfield,Kern County,439131
+97884,25877,94946,Zip,CA,CA,Nicasio,San Francisco-Oakland-Hayward,Marin County,1675250
+98476,25916,95922,Zip,CA,CA,Camptonville,Yuba City,Yuba County,251014
+97157,25929,93218,Zip,CA,CA,Ducor,Visalia-Porterville,Tulare County,184096
+98054,25929,95224,Zip,CA,CA,Murphys,,Calaveras County,308954
+98256,25955,95526,Zip,CA,CA,Bridgeville,Eureka-Arcata-Fortuna,Humboldt County,349869
+98578,25955,96048,Zip,CA,CA,Junction City,,Trinity County,328658
+97866,25955,94922,Zip,CA,CA,Occidental,Santa Rosa,Sonoma County,1006951
+98073,26011,95248,Zip,CA,CA,Mokelumne Hill,,Calaveras County,299571
+98117,26065,95335,Zip,CA,CA,Long Barn,Sonora,Tuolumne County,232090
+97187,26065,93255,Zip,CA,CA,Onyx,Bakersfield,Kern County,159704
+98388,26170,95697,Zip,CA,CA,Yolo,Sacramento--Roseville--Arden-Arcade,Yolo County,351673
+98606,26253,96084,Zip,CA,CA,Round Mountain,Redding,Shasta County,242179
+98533,26253,95983,Zip,CA,CA,Taylorsville,,Plumas County,225899
+97897,26295,94963,Zip,CA,CA,San Geronimo,San Francisco-Oakland-Hayward,Marin County,1126643
+98210,26351,95450,Zip,CA,CA,Jenner,Santa Rosa,Sonoma County,635966
+96227,26351,90743,Zip,CA,CA,Seal Beach,Los Angeles-Long Beach-Anaheim,Orange County,1507634
+97367,26394,93621,Zip,CA,CA,Dunlap,Fresno,Fresno County,239266
+97280,26457,93452,Zip,CA,CA,San Simeon,San Luis Obispo-Paso Robles-Arroyo Grande,San Luis Obispo County,689762
+98188,26457,95424,Zip,CA,CA,Clearlake,Clearlake,Lake County,247997
+98611,26536,96089,Zip,CA,CA,Shasta Lake,Redding,Shasta County,239212
+98439,26554,95830,Zip,CA,CA,Elk Grove,Sacramento--Roseville--Arden-Arcade,Sacramento County,790672
+98218,26595,95459,Zip,CA,CA,Manchester,Ukiah,Mendocino County,540121
+96810,26622,92327,Zip,CA,CA,Daggett,Riverside-San Bernardino-Ontario,San Bernardino County,74482
+98544,26643,96006,Zip,CA,CA,Adin,,Modoc County,134840
+98320,26659,95625,Zip,CA,CA,Vacaville,Vallejo-Fairfield,Solano County,414749
+96805,26739,92322,Zip,CA,CA,Crestline,Riverside-San Bernardino-Ontario,San Bernardino County,219159
+98279,26761,95556,Zip,CA,CA,Orleans,Eureka-Arcata-Fortuna,Humboldt County,160606
+97898,26826,94964,Zip,CA,CA,San Quentin,San Francisco-Oakland-Hayward,Marin County,1045713
+96822,26915,92341,Zip,CA,CA,Green Valley Lake,Riverside-San Bernardino-Ontario,San Bernardino County,216362
+98257,26959,95527,Zip,CA,CA,Burnt Ranch,,Trinity County,339869
+98230,26959,95471,Zip,CA,CA,Guerneville,Santa Rosa,Sonoma County,357835
+98081,26983,95257,Zip,CA,CA,Wilseyville,,Calaveras County,236155
+98547,27039,96009,Zip,CA,CA,Bieber,Susanville,Lassen County,147545
+98102,27056,95318,Zip,CA,CA,El Portal,,Mariposa County,313974
+97395,27056,93652,Zip,CA,CA,Raisin City,Fresno,Fresno County,192550
+98593,27080,96065,Zip,CA,CA,Montgomery Creek,Redding,Shasta County,214949
+98488,27080,95936,Zip,CA,CA,Downieville,,Sierra County,241986
+98275,27181,95552,Zip,CA,CA,Mad River,,Trinity County,323583
+98493,27250,95941,Zip,CA,CA,Forbestown,Chico,Butte County,211323
+98580,27250,96050,Zip,CA,CA,Klamath River,,Siskiyou County,200810
+98293,27295,95585,Zip,CA,CA,Leggett,Ukiah,Mendocino County,299484
+97321,27342,93541,Zip,CA,CA,Lee Vining,,Mono County,316609
+98624,27365,96105,Zip,CA,CA,Chilcoot,,Plumas County,233115
+98196,27395,95432,Zip,CA,CA,Elk,Ukiah,Mendocino County,719959
+98507,27522,95956,Zip,CA,CA,Meadow Valley,,Plumas County,238942
+96500,27522,91759,Zip,CA,CA,Lytle Creek,Riverside-San Bernardino-Ontario,San Bernardino County,498525
+97902,27556,94971,Zip,CA,CA,Tomales,San Francisco-Oakland-Hayward,Marin County,879625
+96793,27582,92309,Zip,CA,CA,Baker,Riverside-San Bernardino-Ontario,San Bernardino County,91937
+98277,27582,95554,Zip,CA,CA,Myers Flat,Eureka-Arcata-Fortuna,Humboldt County,325845
+98644,27627,96125,Zip,CA,CA,Sierra City,,Sierra County,240642
+98647,27653,96128,Zip,CA,CA,Standish,Susanville,Lassen County,227787
+97178,27695,93244,Zip,CA,CA,Lemon Cove,Visalia-Porterville,Tulare County,237549
+98280,27695,95558,Zip,CA,CA,Ferndale,Eureka-Arcata-Fortuna,Humboldt County,430268
+98520,27695,95970,Zip,CA,CA,Colusa,,Colusa County,248651
+98396,27695,95714,Zip,CA,CA,Dutch Flat,Sacramento--Roseville--Arden-Arcade,Placer County,316418
+97384,27783,93641,Zip,CA,CA,Miramonte,Fresno,Fresno County,198037
+98614,27891,96092,Zip,CA,CA,Chico,Chico,Butte County,241783
+98567,27935,96033,Zip,CA,CA,French Gulch,Redding,Shasta County,211705
+97278,27935,93450,Zip,CA,CA,San Ardo,Salinas,Monterey County,279186
+98263,27956,95537,Zip,CA,CA,Fields Landing,Eureka-Arcata-Fortuna,Humboldt County,275167
+98612,28012,96090,Zip,CA,CA,Tehama,Red Bluff,Tehama County,157065
+98601,28037,96075,Zip,CA,CA,Paynes Creek,Red Bluff,Tehama County,126983
+96616,28097,92060,Zip,CA,CA,Palomar Mountain,San Diego-Carlsbad,San Diego County,304514
+98345,28187,95653,Zip,CA,CA,Esparto,Sacramento--Roseville--Arden-Arcade,Yolo County,319837
+97903,28215,94972,Zip,CA,CA,Sebastopol,Santa Rosa,Sonoma County,996921
+98198,28238,95435,Zip,CA,CA,Lakeport,Clearlake,Lake County,341621
+98090,28279,95305,Zip,CA,CA,Big Oak Flat,Sonora,Tuolumne County,182362
+96746,28297,92239,Zip,CA,CA,Desert Center,Riverside-San Bernardino-Ontario,Riverside County,190434
+98553,28342,96016,Zip,CA,CA,Cassel,Redding,Shasta County,223105
+98183,28364,95419,Zip,CA,CA,Occidental,Santa Rosa,Sonoma County,391244
+98570,28394,96037,Zip,CA,CA,Etna,,Siskiyou County,218058
+98640,28394,96121,Zip,CA,CA,Milford,Susanville,Lassen County,231274
+98063,28394,95233,Zip,CA,CA,Murphys,,Calaveras County,297163
+98484,28394,95930,Zip,CA,CA,Clipper Mills,Chico,Butte County,205952
+98366,28423,95675,Zip,CA,CA,River Pines,,Amador County,150866
+98285,28454,95564,Zip,CA,CA,Samoa,Eureka-Arcata-Fortuna,Humboldt County,265758
+98643,28486,96124,Zip,CA,CA,Calpine,,Sierra County,249127
+97873,28512,94929,Zip,CA,CA,Dillon Beach,San Francisco-Oakland-Hayward,Marin County,924739
+97484,28571,93928,Zip,CA,CA,King City,Salinas,Monterey County,637758
+98468,28677,95913,Zip,CA,CA,Willows,,Glenn County,276333
+98062,28784,95232,Zip,CA,CA,Glencoe,,Calaveras County,273369
+98008,28821,95140,Zip,CA,CA,East Foothills,San Jose-Sunnyvale-Santa Clara,Santa Clara County,1501424
+97388,29056,93645,Zip,CA,CA,O Neals,Madera,Madera County,340162
+98204,29111,95443,Zip,CA,CA,Lucerne,Clearlake,Lake County,235268
+97724,29138,94516,Zip,CA,CA,Canyon,San Francisco-Oakland-Hayward,Contra Costa County,858102
+98297,29138,95601,Zip,CA,CA,Amador City,,Amador County,372898
+98552,29138,96015,Zip,CA,CA,Canby,,Modoc County,125991
+96620,29138,92066,Zip,CA,CA,Ranchita,San Diego-Carlsbad,San Diego County,305825
+98608,29167,96086,Zip,CA,CA,Seiad Valley,,Siskiyou County,203894
+98367,29167,95676,Zip,CA,CA,Robbins,Yuba City,Sutter County,285172
+98332,29203,95637,Zip,CA,CA,Guinda,Sacramento--Roseville--Arden-Arcade,Yolo County,384980
+98583,29228,96054,Zip,CA,CA,Lookout,,Modoc County,169741
+98636,29261,96117,Zip,CA,CA,Litchfield,Susanville,Lassen County,211683
+98576,29401,96046,Zip,CA,CA,Hyampom,,Trinity County,303751
+98334,29401,95639,Zip,CA,CA,Clarksburg,Sacramento--Roseville--Arden-Arcade,Yolo County,341974
+97408,29401,93669,Zip,CA,CA,North Fork,Madera,Madera County,285952
+97327,29472,93549,Zip,CA,CA,Olancha,,Inyo County,237340
+98524,29500,95974,Zip,CA,CA,Richvale,Chico,Butte County,315496
+98244,29532,95494,Zip,CA,CA,Yorkville,Ukiah,Mendocino County,544760
+98398,29653,95717,Zip,CA,CA,Gold Run,Sacramento--Roseville--Arden-Arcade,Placer County,354683
+98528,29685,95978,Zip,CA,CA,Stirling City,Chico,Butte County,157419
+98194,29685,95430,Zip,CA,CA,Duncans Mills,Santa Rosa,Sonoma County,562299
+98249,29726,95511,Zip,CA,CA,Alderpoint,Eureka-Arcata-Fortuna,Humboldt County,359324
+97165,29762,93226,Zip,CA,CA,Glennville,Bakersfield,Kern County,188694
+98486,29849,95934,Zip,CA,CA,Greenville,,Plumas County,196727
+98645,29908,96126,Zip,CA,CA,Sierraville,,Sierra County,300984
+99380,29964,97635,Zip,CA,CA,New Pine Creek,,Modoc County,95051
+98184,29964,95420,Zip,CA,CA,Caspar,Ukiah,Mendocino County,714900
+98096,30012,95312,Zip,CA,CA,Winton,Merced,Merced County,235618
+98302,30012,95606,Zip,CA,CA,Brooks,Sacramento--Roseville--Arden-Arcade,Yolo County,426339
+98568,30012,96034,Zip,CA,CA,Gazelle,,Siskiyou County,252100
+98475,30222,95920,Zip,CA,CA,Butte City,,Glenn County,213772
+97374,30250,93628,Zip,CA,CA,Hume,Fresno,Fresno County,247758
+98303,30304,95607,Zip,CA,CA,Capay,Sacramento--Roseville--Arden-Arcade,Yolo County,389252
+98289,30341,95569,Zip,CA,CA,Redcrest,Eureka-Arcata-Fortuna,Humboldt County,331190
+97544,30373,94074,Zip,CA,CA,San Gregorio,San Francisco-Oakland-Hayward,San Mateo County,1645718
+98602,30373,96076,Zip,CA,CA,Hayfork,,Trinity County,228448
+98479,30373,95925,Zip,CA,CA,Forbestown,Chico,Butte County,208786
+98573,30445,96040,Zip,CA,CA,Hat Creek,Redding,Shasta County,233431
+98093,30504,95309,Zip,CA,CA,Jamestown,Sonora,Tuolumne County,261673
+98178,30504,95412,Zip,CA,CA,Annapolis,Santa Rosa,Sonoma County,598133
+98291,30504,95571,Zip,CA,CA,Myers Flat,Eureka-Arcata-Fortuna,Humboldt County,257651
+98288,30545,95568,Zip,CA,CA,Somes Bar,,Siskiyou County,175159
+98296,30545,95595,Zip,CA,CA,Zenia,,Trinity County,409100
+98446,30589,95837,Zip,CA,CA,Nicolaus,Yuba City,Sutter County,784013
+98551,30617,96014,Zip,CA,CA,Callahan,,Siskiyou County,221067
+98491,30617,95939,Zip,CA,CA,Elk Creek,,Glenn County,208771
+98502,30679,95950,Zip,CA,CA,Grimes,,Colusa County,191305
+97775,30742,94569,Zip,CA,CA,Port Costa,San Francisco-Oakland-Hayward,Contra Costa County,500434
+97345,30779,93592,Zip,CA,CA,Homewood Canyon-Valley Wells,,Inyo County,76808
+98281,30807,95559,Zip,CA,CA,Myers Flat,Eureka-Arcata-Fortuna,Humboldt County,298198
+98240,30835,95488,Zip,CA,CA,Westport,Ukiah,Mendocino County,439569
+98389,30868,95698,Zip,CA,CA,Woodland,Sacramento--Roseville--Arden-Arcade,Yolo County,404027
+96554,30892,91931,Zip,CA,CA,Descanso,San Diego-Carlsbad,San Diego County,429575
+98222,30939,95463,Zip,CA,CA,Philo,Ukiah,Mendocino County,400210
+96853,30939,92389,Zip,CA,CA,Shoshone,,Inyo County,26815
+97350,30981,93603,Zip,CA,CA,Badger,Visalia-Porterville,Tulare County,319764
+98477,31017,95923,Zip,CA,CA,Canyon Dam,,Plumas County,262578
+98631,31043,96112,Zip,CA,CA,Fort Bidwell,,Modoc County,107572
+97494,31077,93954,Zip,CA,CA,San Lucas,Salinas,Monterey County,274095
+98591,31114,96063,Zip,CA,CA,Mill Creek,Red Bluff,Tehama County,97268
+98250,31180,95514,Zip,CA,CA,Blocksburg,Eureka-Arcata-Fortuna,Humboldt County,546867
+97782,31216,94576,Zip,CA,CA,Deer Park,Napa,Napa County,1042794
+98522,31246,95972,Zip,CA,CA,Bangor,Chico,Butte County,286530
+98268,31282,95545,Zip,CA,CA,Garberville,Eureka-Arcata-Fortuna,Humboldt County,502076
+98161,31282,95385,Zip,CA,CA,Vernalis,Modesto,Stanislaus County,769108
+98598,31313,96071,Zip,CA,CA,Old Station,Redding,Shasta County,189705
+98648,31386,96129,Zip,CA,CA,Beckwourth,,Plumas County,246672
+98549,31421,96011,Zip,CA,CA,Big Bend,Redding,Shasta County,182049
+97378,31457,93634,Zip,CA,CA,Lakeshore,Fresno,Fresno County,358326
+98243,31457,95493,Zip,CA,CA,Upper Lake,Clearlake,Lake County,408378
+97512,31457,94021,Zip,CA,CA,Pescadero,San Francisco-Oakland-Hayward,San Mateo County,901003
+98635,31498,96116,Zip,CA,CA,Likely,,Modoc County,183984
+98405,31566,95735,Zip,CA,CA,Twin Bridges,Sacramento--Roseville--Arden-Arcade,El Dorado County,291135
+98554,31606,96017,Zip,CA,CA,Castella,Redding,Shasta County,183911
+98399,31646,95720,Zip,CA,CA,Kyburz,Sacramento--Roseville--Arden-Arcade,El Dorado County,285987
+97213,31674,93287,Zip,CA,CA,Woody,Bakersfield,Kern County,217123
+98181,31781,95417,Zip,CA,CA,Branscomb,Ukiah,Mendocino County,369673
+97369,31781,93623,Zip,CA,CA,Fish Camp,,Mariposa County,376416
+97409,31945,93670,Zip,CA,CA,Visalia,Visalia-Porterville,Tulare County,179569
+98371,32023,95680,Zip,CA,CA,Walnut Grove,Sacramento--Roseville--Arden-Arcade,Sacramento County,470454
+98565,32143,96031,Zip,CA,CA,Etna,,Siskiyou County,199405
+98548,32209,96010,Zip,CA,CA,Big Bar,,Trinity County,253345
+98340,32209,95646,Zip,CA,CA,Kirkwood,,Alpine County,517192
+97352,32244,93605,Zip,CA,CA,Big Creek,Fresno,Fresno County,360226
+98651,32406,96133,Zip,CA,CA,Coleville,,Mono County,192000
+98634,32447,96115,Zip,CA,CA,Lake City,,Modoc County,201063
+98627,32447,96108,Zip,CA,CA,New Pine Creek,,Modoc County,156233
+96802,32486,92318,Zip,CA,CA,Loma Linda,Riverside-San Bernardino-Ontario,San Bernardino County,343801
+98273,32486,95550,Zip,CA,CA,Korbel,Eureka-Arcata-Fortuna,Humboldt County,418500
+98109,32523,95325,Zip,CA,CA,Hornitos,,Mariposa County,303058
+98629,32607,96110,Zip,CA,CA,Cedarville,,Modoc County,208758
+98535,32607,95986,Zip,CA,CA,Washington,Truckee-Grass Valley,Nevada County,329412
+98534,32607,95984,Zip,CA,CA,Twain,,Plumas County,220505
+98370,32644,95679,Zip,CA,CA,Brooks,Sacramento--Roseville--Arden-Arcade,Yolo County,418045
+97299,32728,93512,Zip,CA,CA,Benton,,Mono County,228448
+97339,32764,93563,Zip,CA,CA,Valyermo,Los Angeles-Long Beach-Anaheim,Los Angeles County,251855
+98390,32800,95699,Zip,CA,CA,Plymouth,,Amador County,416122
+98607,32800,96085,Zip,CA,CA,Klamath River,,Siskiyou County,212412
+97332,32844,93554,Zip,CA,CA,Randsburg,Bakersfield,Kern County,65148
+97888,32844,94950,Zip,CA,CA,Point Reyes Station,San Francisco-Oakland-Hayward,Marin County,1161110
+98653,32888,96135,Zip,CA,CA,Chilcoot,,Plumas County,186016
+98642,32928,96123,Zip,CA,CA,Ravendale,Susanville,Lassen County,114521
+97314,33010,93530,Zip,CA,CA,Keeler,,Inyo County,46388
+98128,33081,95347,Zip,CA,CA,Coulterville,,Mariposa County,287103
+98638,33081,96119,Zip,CA,CA,Madeline,Susanville,Lassen County,123938
+98397,33114,95715,Zip,CA,CA,Soda Springs,Sacramento--Roseville--Arden-Arcade,Placer County,307928
+98630,33238,96111,Zip,CA,CA,Truckee,Truckee-Grass Valley,Nevada County,511403
+98654,33381,96136,Zip,CA,CA,Wendel,Susanville,Lassen County,152140
+98531,33451,95981,Zip,CA,CA,Strawberry Valley,,Plumas County,266932
+97720,33451,94512,Zip,CA,CA,Birds Landing,Vallejo-Fairfield,Solano County,551601
+98402,33487,95724,Zip,CA,CA,Soda Springs,Sacramento--Roseville--Arden-Arcade,Placer County,646441
+97259,33518,93429,Zip,CA,CA,Casmalia,Santa Maria-Santa Barbara,Santa Barbara County,330970
+98595,33518,96068,Zip,CA,CA,Nubieber,Susanville,Lassen County,54524
+98509,33581,95958,Zip,CA,CA,Nelson,Chico,Butte County,280273
+96813,33913,92332,Zip,CA,CA,Essex,Riverside-San Bernardino-Ontario,San Bernardino County,73821
+98650,33913,96132,Zip,CA,CA,Termo,Susanville,Lassen County,129339
+97264,33935,93435,Zip,CA,CA,Harmony,San Luis Obispo-Paso Robles-Arroyo Grande,San Luis Obispo County,1282975
+97306,33985,93519,Zip,CA,CA,Mojave,Bakersfield,Kern County,106920
+98589,34007,96061,Zip,CA,CA,Mill Creek,Red Bluff,Tehama County,115233
+98009,34027,95141,Zip,CA,CA,San Jose,San Jose-Sunnyvale-Santa Clara,Santa Clara County,1543375
+97307,34050,93522,Zip,CA,CA,Darwin,,Inyo County,45476
+98530,34075,95980,Zip,CA,CA,Tobin,,Plumas County,165749
+98152,34322,95375,Zip,CA,CA,Strawberry,Sonora,Tuolumne County,325644
+98059,34430,95229,Zip,CA,CA,Vallecito,,Calaveras County,244435
+98400,34430,95721,Zip,CA,CA,Twin Bridges,Sacramento--Roseville--Arden-Arcade,El Dorado County,286154
